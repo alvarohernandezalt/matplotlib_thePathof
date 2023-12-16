@@ -29,3 +29,9 @@ df['colors_2'] = df['Team'].apply(lambda x: minVikings_colors[1] if x == 'Min' e
 
 print(df)
 
+df['Avg'].plot.barh(ax = ax,
+             color = df['colors_1'],
+             edgecolor= df['colors_2'],
+             linewidth = 3,
+             width = .7)  # Increase this value to make the bars wider
+
