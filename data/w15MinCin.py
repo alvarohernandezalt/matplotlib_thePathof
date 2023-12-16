@@ -22,4 +22,10 @@ df = pd.DataFrame(runningStats)
 df['Avg'] = round(df['Yards']/df['Runs'], 1)
 # Asign teams
 df['Team'] = ['Min','Min','Min','Cin','Cin','Cin']
+
+df['colors_1'] = df['Team'].apply(lambda x: minVikings_colors[0] if x == 'Min' else cinBengals_colors[0])
+df['colors_2'] = df['Team'].apply(lambda x: minVikings_colors[1] if x == 'Min' else cinBengals_colors[1])
+
+
 print(df)
+
