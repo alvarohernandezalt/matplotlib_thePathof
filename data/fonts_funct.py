@@ -43,6 +43,3 @@ def set_font_properties(font, family, style, variant, weight, stretch, size):
         'size': font.get_size(),
     }
 
-# Usage
-font = FontProperties()
-font_properties = set_font_properties(font, 'serif', 'italic', 'small-caps', 'bold', 'expanded', 'large')
