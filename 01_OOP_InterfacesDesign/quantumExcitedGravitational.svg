@@ -6,7 +6,7 @@
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <cc:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:date>2023-12-28T11:32:05.783804</dc:date>
+    <dc:date>2023-12-28T11:59:15.897748</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <cc:Agent>
@@ -41,12 +41,12 @@ z
     <g id="xtick_1">
      <g id="line2d_1">
       <defs>
-       <path id="mfd3f7934fb" d="M 0 0 
+       <path id="md12b9597e7" d="M 0 0 
 L 0 3.5 
 " style="stroke: #c6c8cb; stroke-width: 0.8"/>
       </defs>
       <g>
-       <use xlink:href="#mfd3f7934fb" x="54" y="384.48" style="fill: #c6c8cb; stroke: #c6c8cb; stroke-width: 0.8"/>
+       <use xlink:href="#md12b9597e7" x="54" y="384.48" style="fill: #c6c8cb; stroke: #c6c8cb; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_1">
@@ -78,7 +78,7 @@ z
     <g id="xtick_2">
      <g id="line2d_2">
       <g>
-       <use xlink:href="#mfd3f7934fb" x="126.782609" y="384.48" style="fill: #c6c8cb; stroke: #c6c8cb; stroke-width: 0.8"/>
+       <use xlink:href="#md12b9597e7" x="126.782609" y="384.48" style="fill: #c6c8cb; stroke: #c6c8cb; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_2">
@@ -115,7 +115,7 @@ z
     <g id="xtick_3">
      <g id="line2d_3">
       <g>
-       <use xlink:href="#mfd3f7934fb" x="199.565217" y="384.48" style="fill: #c6c8cb; stroke: #c6c8cb; stroke-width: 0.8"/>
+       <use xlink:href="#md12b9597e7" x="199.565217" y="384.48" style="fill: #c6c8cb; stroke: #c6c8cb; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_3">
@@ -141,7 +141,7 @@ z
     <g id="xtick_4">
      <g id="line2d_4">
       <g>
-       <use xlink:href="#mfd3f7934fb" x="272.347826" y="384.48" style="fill: #c6c8cb; stroke: #c6c8cb; stroke-width: 0.8"/>
+       <use xlink:href="#md12b9597e7" x="272.347826" y="384.48" style="fill: #c6c8cb; stroke: #c6c8cb; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_4">
@@ -155,7 +155,7 @@ z
     <g id="xtick_5">
      <g id="line2d_5">
       <g>
-       <use xlink:href="#mfd3f7934fb" x="345.130435" y="384.48" style="fill: #c6c8cb; stroke: #c6c8cb; stroke-width: 0.8"/>
+       <use xlink:href="#md12b9597e7" x="345.130435" y="384.48" style="fill: #c6c8cb; stroke: #c6c8cb; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_5">
@@ -267,12 +267,12 @@ z
     <g id="ytick_1">
      <g id="line2d_6">
       <defs>
-       <path id="m3e50a24f27" d="M 0 0 
+       <path id="m0cbf7fee83" d="M 0 0 
 L -3.5 0 
 " style="stroke: #c6c8cb; stroke-width: 0.8"/>
       </defs>
       <g>
-       <use xlink:href="#m3e50a24f27" x="54" y="384.48" style="fill: #c6c8cb; stroke: #c6c8cb; stroke-width: 0.8"/>
+       <use xlink:href="#m0cbf7fee83" x="54" y="384.48" style="fill: #c6c8cb; stroke: #c6c8cb; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_7">
@@ -297,7 +297,7 @@ z
     <g id="ytick_2">
      <g id="line2d_7">
       <g>
-       <use xlink:href="#m3e50a24f27" x="54" y="329.04" style="fill: #c6c8cb; stroke: #c6c8cb; stroke-width: 0.8"/>
+       <use xlink:href="#m0cbf7fee83" x="54" y="329.04" style="fill: #c6c8cb; stroke: #c6c8cb; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_8">
@@ -313,7 +313,7 @@ z
     <g id="ytick_3">
      <g id="line2d_8">
       <g>
-       <use xlink:href="#m3e50a24f27" x="54" y="273.6" style="fill: #c6c8cb; stroke: #c6c8cb; stroke-width: 0.8"/>
+       <use xlink:href="#m0cbf7fee83" x="54" y="273.6" style="fill: #c6c8cb; stroke: #c6c8cb; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_9">
@@ -329,7 +329,7 @@ z
     <g id="ytick_4">
      <g id="line2d_9">
       <g>
-       <use xlink:href="#m3e50a24f27" x="54" y="218.16" style="fill: #c6c8cb; stroke: #c6c8cb; stroke-width: 0.8"/>
+       <use xlink:href="#m0cbf7fee83" x="54" y="218.16" style="fill: #c6c8cb; stroke: #c6c8cb; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_10">
@@ -345,7 +345,7 @@ z
     <g id="ytick_5">
      <g id="line2d_10">
       <g>
-       <use xlink:href="#m3e50a24f27" x="54" y="162.72" style="fill: #c6c8cb; stroke: #c6c8cb; stroke-width: 0.8"/>
+       <use xlink:href="#m0cbf7fee83" x="54" y="162.72" style="fill: #c6c8cb; stroke: #c6c8cb; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_11">
@@ -361,7 +361,7 @@ z
     <g id="ytick_6">
      <g id="line2d_11">
       <g>
-       <use xlink:href="#m3e50a24f27" x="54" y="107.28" style="fill: #c6c8cb; stroke: #c6c8cb; stroke-width: 0.8"/>
+       <use xlink:href="#m0cbf7fee83" x="54" y="107.28" style="fill: #c6c8cb; stroke: #c6c8cb; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_12">
@@ -377,7 +377,7 @@ z
     <g id="ytick_7">
      <g id="line2d_12">
       <g>
-       <use xlink:href="#m3e50a24f27" x="54" y="51.84" style="fill: #c6c8cb; stroke: #c6c8cb; stroke-width: 0.8"/>
+       <use xlink:href="#m0cbf7fee83" x="54" y="51.84" style="fill: #c6c8cb; stroke: #c6c8cb; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_13">
@@ -471,7 +471,7 @@ L 308.411281 76.790695
 L 308.994125 36.576548 
 L 309.37395 -1 
 L 309.37395 -1 
-" clip-path="url(#p4b7aeb01a1)" style="fill: none; stroke: #eba62a; stroke-width: 1.5; stroke-linecap: square"/>
+" clip-path="url(#pb0ea09ea4a)" style="fill: none; stroke: #eba62a; stroke-width: 1.5; stroke-linecap: square"/>
    </g>
    <g id="line2d_14">
     <path d="M 54 384.48 
@@ -864,7 +864,7 @@ L 339.884841 383.400292
 L 342.507638 383.860418 
 L 345.130435 384.131376 
 L 345.130435 384.131376 
-" clip-path="url(#p4b7aeb01a1)" style="fill: none; stroke: #eb892a; stroke-width: 1.5; stroke-linecap: square"/>
+" clip-path="url(#pb0ea09ea4a)" style="fill: none; stroke: #eb892a; stroke-width: 1.5; stroke-linecap: square"/>
    </g>
    <g id="patch_3">
     <path d="M 54 384.48 
@@ -887,6 +887,272 @@ L 388.8 51.84
 " style="fill: none; stroke: #c6c8cb; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
    </g>
    <g id="text_15">
+    <!-- The Excited State n=16 -->
+    <g style="fill: #c6c8cb" transform="translate(169.845313 48.5136) scale(0.1 -0.1)">
+     <defs>
+      <path id="DINPro-Bold-54" d="M 3462 3763 
+L 3462 4557 
+L 192 4557 
+L 192 3763 
+L 1382 3763 
+L 1382 0 
+L 2272 0 
+L 2272 3763 
+L 3462 3763 
+z
+" transform="scale(0.015625)"/>
+      <path id="DINPro-Bold-68" d="M 3213 0 
+L 3213 2157 
+C 3213 2861 2829 3373 2099 3373 
+C 1805 3373 1523 3258 1299 3027 
+L 1299 4557 
+L 467 4557 
+L 467 0 
+L 1299 0 
+L 1299 2035 
+C 1299 2470 1574 2624 1837 2624 
+C 2099 2624 2381 2477 2381 2035 
+L 2381 0 
+L 3213 0 
+z
+" transform="scale(0.015625)"/>
+      <path id="DINPro-Bold-65" d="M 3206 1408 
+L 3206 1779 
+C 3206 2694 2682 3373 1754 3373 
+C 890 3373 301 2758 301 1670 
+C 301 320 1056 -38 1843 -38 
+C 2445 -38 2771 147 3110 486 
+L 2605 979 
+C 2394 768 2214 666 1850 666 
+C 1382 666 1120 979 1120 1408 
+L 3206 1408 
+z
+M 2387 1978 
+L 1120 1978 
+C 1126 2125 1146 2214 1197 2336 
+C 1286 2534 1472 2682 1754 2682 
+C 2035 2682 2221 2534 2310 2336 
+C 2362 2214 2381 2125 2387 1978 
+z
+" transform="scale(0.015625)"/>
+      <path id="DINPro-Bold-20" transform="scale(0.015625)"/>
+      <path id="DINPro-Bold-45" d="M 3533 0 
+L 3533 794 
+L 1421 794 
+L 1421 1901 
+L 3219 1901 
+L 3219 2694 
+L 1421 2694 
+L 1421 3763 
+L 3533 3763 
+L 3533 4557 
+L 531 4557 
+L 531 0 
+L 3533 0 
+z
+" transform="scale(0.015625)"/>
+      <path id="DINPro-Bold-78" d="M 3296 0 
+L 2144 1702 
+L 3251 3334 
+L 2253 3334 
+L 1683 2381 
+L 1120 3334 
+L 122 3334 
+L 1229 1702 
+L 77 0 
+L 1075 0 
+L 1683 998 
+L 2298 0 
+L 3296 0 
+z
+" transform="scale(0.015625)"/>
+      <path id="DINPro-Bold-63" d="M 2893 416 
+L 2330 973 
+C 2157 787 2010 710 1792 710 
+C 1594 710 1440 781 1318 928 
+C 1190 1088 1133 1318 1133 1670 
+C 1133 2022 1190 2246 1318 2406 
+C 1440 2554 1594 2624 1792 2624 
+C 2010 2624 2157 2547 2330 2362 
+L 2893 2925 
+C 2598 3232 2253 3373 1792 3373 
+C 1126 3373 301 3021 301 1670 
+C 301 320 1126 -38 1792 -38 
+C 2253 -38 2598 109 2893 416 
+z
+" transform="scale(0.015625)"/>
+      <path id="DINPro-Bold-69" d="M 1299 0 
+L 1299 3334 
+L 467 3334 
+L 467 0 
+L 1299 0 
+z
+M 1306 3904 
+L 1306 4582 
+L 454 4582 
+L 454 3904 
+L 1306 3904 
+z
+" transform="scale(0.015625)"/>
+      <path id="DINPro-Bold-74" d="M 1965 0 
+L 1965 704 
+L 1664 704 
+C 1466 704 1376 813 1376 1005 
+L 1376 2605 
+L 1965 2605 
+L 1965 3238 
+L 1376 3238 
+L 1376 4224 
+L 544 4224 
+L 544 3238 
+L 192 3238 
+L 192 2605 
+L 544 2605 
+L 544 954 
+C 544 480 832 0 1510 0 
+L 1965 0 
+z
+" transform="scale(0.015625)"/>
+      <path id="DINPro-Bold-64" d="M 3123 0 
+L 3123 4557 
+L 2291 4557 
+L 2291 3040 
+C 2074 3283 1818 3373 1478 3373 
+C 1152 3373 851 3258 666 3072 
+C 333 2739 326 2170 326 1670 
+C 326 1171 333 595 666 262 
+C 851 77 1158 -38 1485 -38 
+C 1837 -38 2080 58 2310 314 
+L 2310 0 
+L 3123 0 
+z
+M 2291 1670 
+C 2291 1126 2221 710 1722 710 
+C 1222 710 1158 1126 1158 1670 
+C 1158 2214 1222 2624 1722 2624 
+C 2221 2624 2291 2214 2291 1670 
+z
+" transform="scale(0.015625)"/>
+      <path id="DINPro-Bold-53" d="M 3475 1344 
+C 3475 1747 3366 2080 3123 2310 
+C 2931 2490 2669 2605 2253 2662 
+L 1715 2739 
+C 1530 2765 1382 2835 1293 2918 
+C 1197 3008 1158 3130 1158 3245 
+C 1158 3558 1389 3821 1862 3821 
+C 2163 3821 2509 3782 2797 3507 
+L 3360 4064 
+C 2970 4442 2515 4595 1888 4595 
+C 902 4595 301 4026 301 3213 
+C 301 2829 410 2534 627 2317 
+C 832 2118 1120 1997 1510 1939 
+L 2061 1862 
+C 2272 1830 2374 1786 2464 1702 
+C 2560 1613 2605 1478 2605 1318 
+C 2605 954 2323 755 1798 755 
+C 1376 755 986 851 698 1139 
+L 122 563 
+C 570 109 1094 -38 1786 -38 
+C 2739 -38 3475 461 3475 1344 
+z
+" transform="scale(0.015625)"/>
+      <path id="DINPro-Bold-61" d="M 2989 0 
+L 2989 2195 
+C 2989 2976 2502 3373 1568 3373 
+C 1011 3373 691 3270 365 2912 
+L 896 2394 
+C 1069 2592 1216 2669 1536 2669 
+C 1978 2669 2157 2509 2157 2144 
+L 2157 1978 
+L 1370 1978 
+C 595 1978 230 1542 230 1011 
+C 230 717 326 448 506 262 
+C 704 64 979 -32 1357 -32 
+C 1741 -32 1952 64 2176 288 
+L 2176 0 
+L 2989 0 
+z
+M 2157 1229 
+C 2157 1024 2125 890 2035 806 
+C 1888 666 1741 646 1510 646 
+C 1184 646 1030 800 1030 1030 
+C 1030 1267 1197 1408 1498 1408 
+L 2157 1408 
+L 2157 1229 
+z
+" transform="scale(0.015625)"/>
+      <path id="DINPro-Bold-6e" d="M 3238 0 
+L 3238 2131 
+C 3238 2496 3168 2810 2899 3078 
+C 2714 3264 2445 3373 2112 3373 
+C 1805 3373 1498 3258 1280 3027 
+L 1280 3334 
+L 467 3334 
+L 467 0 
+L 1299 0 
+L 1299 2016 
+C 1299 2470 1594 2624 1856 2624 
+C 2118 2624 2406 2470 2406 2016 
+L 2406 0 
+L 3238 0 
+z
+" transform="scale(0.015625)"/>
+      <path id="DINPro-Bold-3d" d="M 3155 2131 
+L 3155 2912 
+L 320 2912 
+L 320 2131 
+L 3155 2131 
+z
+M 3155 742 
+L 3155 1523 
+L 320 1523 
+L 320 742 
+L 3155 742 
+z
+" transform="scale(0.015625)"/>
+      <path id="DINPro-Bold-36" d="M 3149 1382 
+C 3149 2227 2566 2733 1952 2733 
+C 1843 2733 1722 2720 1613 2675 
+L 2560 4557 
+L 1651 4557 
+L 691 2586 
+C 486 2170 307 1786 307 1370 
+C 307 467 922 -38 1728 -38 
+C 2534 -38 3149 486 3149 1382 
+z
+M 2317 1376 
+C 2317 954 2067 710 1728 710 
+C 1389 710 1139 954 1139 1376 
+C 1139 1798 1389 2042 1728 2042 
+C 2080 2042 2317 1779 2317 1376 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#DINPro-Bold-54"/>
+     <use xlink:href="#DINPro-Bold-68" x="57.099991"/>
+     <use xlink:href="#DINPro-Bold-65" x="113.999985"/>
+     <use xlink:href="#DINPro-Bold-20" x="168.799973"/>
+     <use xlink:href="#DINPro-Bold-45" x="191.999969"/>
+     <use xlink:href="#DINPro-Bold-78" x="252.499954"/>
+     <use xlink:href="#DINPro-Bold-63" x="305.199951"/>
+     <use xlink:href="#DINPro-Bold-69" x="353.199936"/>
+     <use xlink:href="#DINPro-Bold-74" x="380.699921"/>
+     <use xlink:href="#DINPro-Bold-65" x="415.899918"/>
+     <use xlink:href="#DINPro-Bold-64" x="470.699905"/>
+     <use xlink:href="#DINPro-Bold-20" x="526.799896"/>
+     <use xlink:href="#DINPro-Bold-53" x="549.999893"/>
+     <use xlink:href="#DINPro-Bold-74" x="609.099884"/>
+     <use xlink:href="#DINPro-Bold-61" x="644.299881"/>
+     <use xlink:href="#DINPro-Bold-74" x="697.699875"/>
+     <use xlink:href="#DINPro-Bold-65" x="732.899872"/>
+     <use xlink:href="#DINPro-Bold-20" x="787.69986"/>
+     <use xlink:href="#DINPro-Bold-6e" x="810.899857"/>
+     <use xlink:href="#DINPro-Bold-3d" x="868.199844"/>
+     <use xlink:href="#DINPro-Bold-31" x="922.499832"/>
+     <use xlink:href="#DINPro-Bold-36" x="976.79982"/>
+    </g>
+   </g>
+   <g id="text_16">
     <!-- Classical -->
     <g style="fill: #eba62a" transform="translate(316.017391 65.533469) scale(0.1 -0.1)">
      <defs>
@@ -920,31 +1186,6 @@ C 435 480 723 0 1408 0
 L 1882 0 
 z
 " transform="scale(0.015625)"/>
-      <path id="DINPro-Bold-61" d="M 2989 0 
-L 2989 2195 
-C 2989 2976 2502 3373 1568 3373 
-C 1011 3373 691 3270 365 2912 
-L 896 2394 
-C 1069 2592 1216 2669 1536 2669 
-C 1978 2669 2157 2509 2157 2144 
-L 2157 1978 
-L 1370 1978 
-C 595 1978 230 1542 230 1011 
-C 230 717 326 448 506 262 
-C 704 64 979 -32 1357 -32 
-C 1741 -32 1952 64 2176 288 
-L 2176 0 
-L 2989 0 
-z
-M 2157 1229 
-C 2157 1024 2125 890 2035 806 
-C 1888 666 1741 646 1510 646 
-C 1184 646 1030 800 1030 1030 
-C 1030 1267 1197 1408 1498 1408 
-L 2157 1408 
-L 2157 1229 
-z
-" transform="scale(0.015625)"/>
       <path id="DINPro-Bold-73" d="M 2976 1050 
 C 2976 1613 2643 1965 1984 2029 
 L 1459 2080 
@@ -964,34 +1205,6 @@ C 563 19 1037 -38 1562 -38
 C 2349 -38 2976 314 2976 1050 
 z
 " transform="scale(0.015625)"/>
-      <path id="DINPro-Bold-69" d="M 1299 0 
-L 1299 3334 
-L 467 3334 
-L 467 0 
-L 1299 0 
-z
-M 1306 3904 
-L 1306 4582 
-L 454 4582 
-L 454 3904 
-L 1306 3904 
-z
-" transform="scale(0.015625)"/>
-      <path id="DINPro-Bold-63" d="M 2893 416 
-L 2330 973 
-C 2157 787 2010 710 1792 710 
-C 1594 710 1440 781 1318 928 
-C 1190 1088 1133 1318 1133 1670 
-C 1133 2022 1190 2246 1318 2406 
-C 1440 2554 1594 2624 1792 2624 
-C 2010 2624 2157 2547 2330 2362 
-L 2893 2925 
-C 2598 3232 2253 3373 1792 3373 
-C 1126 3373 301 3021 301 1670 
-C 301 320 1126 -38 1792 -38 
-C 2253 -38 2598 109 2893 416 
-z
-" transform="scale(0.015625)"/>
      </defs>
      <use xlink:href="#DINPro-Bold-43"/>
      <use xlink:href="#DINPro-Bold-6c" x="61.999985"/>
@@ -1004,7 +1217,7 @@ z
      <use xlink:href="#DINPro-Bold-6c" x="376.999908"/>
     </g>
    </g>
-   <g id="text_16">
+   <g id="text_17">
     <!-- Quantum -->
     <g style="fill: #eb892a" transform="translate(337.852174 375.997469) scale(0.1 -0.1)">
      <defs>
@@ -1051,41 +1264,6 @@ L 2387 0
 L 3200 0 
 z
 " transform="scale(0.015625)"/>
-      <path id="DINPro-Bold-6e" d="M 3238 0 
-L 3238 2131 
-C 3238 2496 3168 2810 2899 3078 
-C 2714 3264 2445 3373 2112 3373 
-C 1805 3373 1498 3258 1280 3027 
-L 1280 3334 
-L 467 3334 
-L 467 0 
-L 1299 0 
-L 1299 2016 
-C 1299 2470 1594 2624 1856 2624 
-C 2118 2624 2406 2470 2406 2016 
-L 2406 0 
-L 3238 0 
-z
-" transform="scale(0.015625)"/>
-      <path id="DINPro-Bold-74" d="M 1965 0 
-L 1965 704 
-L 1664 704 
-C 1466 704 1376 813 1376 1005 
-L 1376 2605 
-L 1965 2605 
-L 1965 3238 
-L 1376 3238 
-L 1376 4224 
-L 544 4224 
-L 544 3238 
-L 192 3238 
-L 192 2605 
-L 544 2605 
-L 544 954 
-C 544 480 832 0 1510 0 
-L 1965 0 
-z
-" transform="scale(0.015625)"/>
       <path id="DINPro-Bold-6d" d="M 5178 0 
 L 5178 2131 
 C 5178 2496 5082 2810 4813 3078 
@@ -1119,9 +1297,9 @@ z
      <use xlink:href="#DINPro-Bold-6d" x="324.799942"/>
     </g>
    </g>
-   <g id="text_17">
+   <g id="text_18">
     <!-- A quantum particle in a gravitational field -->
-    <g style="fill: #c6c8cb" transform="translate(108.394688 23.243175) scale(0.12 -0.12)">
+    <g style="fill: #c6c8cb" transform="translate(108.394688 35.8608) scale(0.12 -0.12)">
      <defs>
       <path id="DINPro-Bold-41" d="M 4051 0 
 L 2387 4557 
@@ -1139,7 +1317,6 @@ L 2061 3213
 L 2618 1555 
 z
 " transform="scale(0.015625)"/>
-      <path id="DINPro-Bold-20" transform="scale(0.015625)"/>
       <path id="DINPro-Bold-70" d="M 3258 1670 
 C 3258 2170 3251 2739 2918 3072 
 C 2733 3258 2432 3373 2106 3373 
@@ -1171,25 +1348,6 @@ L 1299 2010
 C 1299 2432 1581 2624 1837 2624 
 C 2042 2624 2150 2554 2278 2426 
 L 2906 3059 
-z
-" transform="scale(0.015625)"/>
-      <path id="DINPro-Bold-65" d="M 3206 1408 
-L 3206 1779 
-C 3206 2694 2682 3373 1754 3373 
-C 890 3373 301 2758 301 1670 
-C 301 320 1056 -38 1843 -38 
-C 2445 -38 2771 147 3110 486 
-L 2605 979 
-C 2394 768 2214 666 1850 666 
-C 1382 666 1120 979 1120 1408 
-L 3206 1408 
-z
-M 2387 1978 
-L 1120 1978 
-C 1126 2125 1146 2214 1197 2336 
-C 1286 2534 1472 2682 1754 2682 
-C 2035 2682 2221 2534 2310 2336 
-C 2362 2214 2381 2125 2387 1978 
 z
 " transform="scale(0.015625)"/>
       <path id="DINPro-Bold-67" d="M 3085 122 
@@ -1266,26 +1424,6 @@ L 1402 2605
 L 2016 2605 
 z
 " transform="scale(0.015625)"/>
-      <path id="DINPro-Bold-64" d="M 3123 0 
-L 3123 4557 
-L 2291 4557 
-L 2291 3040 
-C 2074 3283 1818 3373 1478 3373 
-C 1152 3373 851 3258 666 3072 
-C 333 2739 326 2170 326 1670 
-C 326 1171 333 595 666 262 
-C 851 77 1158 -38 1485 -38 
-C 1837 -38 2080 58 2310 314 
-L 2310 0 
-L 3123 0 
-z
-M 2291 1670 
-C 2291 1126 2221 710 1722 710 
-C 1222 710 1158 1126 1158 1670 
-C 1158 2214 1222 2624 1722 2624 
-C 2221 2624 2291 2214 2291 1670 
-z
-" transform="scale(0.015625)"/>
      </defs>
      <use xlink:href="#DINPro-Bold-41"/>
      <use xlink:href="#DINPro-Bold-20" x="63.799988"/>
@@ -1331,147 +1469,11 @@ z
      <use xlink:href="#DINPro-Bold-6c" x="1794.799606"/>
      <use xlink:href="#DINPro-Bold-64" x="1827.299591"/>
     </g>
-    <!-- The Excited State n=16 -->
-    <g style="fill: #c6c8cb" transform="translate(159.534375 35.8608) scale(0.12 -0.12)">
-     <defs>
-      <path id="DINPro-Bold-54" d="M 3462 3763 
-L 3462 4557 
-L 192 4557 
-L 192 3763 
-L 1382 3763 
-L 1382 0 
-L 2272 0 
-L 2272 3763 
-L 3462 3763 
-z
-" transform="scale(0.015625)"/>
-      <path id="DINPro-Bold-68" d="M 3213 0 
-L 3213 2157 
-C 3213 2861 2829 3373 2099 3373 
-C 1805 3373 1523 3258 1299 3027 
-L 1299 4557 
-L 467 4557 
-L 467 0 
-L 1299 0 
-L 1299 2035 
-C 1299 2470 1574 2624 1837 2624 
-C 2099 2624 2381 2477 2381 2035 
-L 2381 0 
-L 3213 0 
-z
-" transform="scale(0.015625)"/>
-      <path id="DINPro-Bold-45" d="M 3533 0 
-L 3533 794 
-L 1421 794 
-L 1421 1901 
-L 3219 1901 
-L 3219 2694 
-L 1421 2694 
-L 1421 3763 
-L 3533 3763 
-L 3533 4557 
-L 531 4557 
-L 531 0 
-L 3533 0 
-z
-" transform="scale(0.015625)"/>
-      <path id="DINPro-Bold-78" d="M 3296 0 
-L 2144 1702 
-L 3251 3334 
-L 2253 3334 
-L 1683 2381 
-L 1120 3334 
-L 122 3334 
-L 1229 1702 
-L 77 0 
-L 1075 0 
-L 1683 998 
-L 2298 0 
-L 3296 0 
-z
-" transform="scale(0.015625)"/>
-      <path id="DINPro-Bold-53" d="M 3475 1344 
-C 3475 1747 3366 2080 3123 2310 
-C 2931 2490 2669 2605 2253 2662 
-L 1715 2739 
-C 1530 2765 1382 2835 1293 2918 
-C 1197 3008 1158 3130 1158 3245 
-C 1158 3558 1389 3821 1862 3821 
-C 2163 3821 2509 3782 2797 3507 
-L 3360 4064 
-C 2970 4442 2515 4595 1888 4595 
-C 902 4595 301 4026 301 3213 
-C 301 2829 410 2534 627 2317 
-C 832 2118 1120 1997 1510 1939 
-L 2061 1862 
-C 2272 1830 2374 1786 2464 1702 
-C 2560 1613 2605 1478 2605 1318 
-C 2605 954 2323 755 1798 755 
-C 1376 755 986 851 698 1139 
-L 122 563 
-C 570 109 1094 -38 1786 -38 
-C 2739 -38 3475 461 3475 1344 
-z
-" transform="scale(0.015625)"/>
-      <path id="DINPro-Bold-3d" d="M 3155 2131 
-L 3155 2912 
-L 320 2912 
-L 320 2131 
-L 3155 2131 
-z
-M 3155 742 
-L 3155 1523 
-L 320 1523 
-L 320 742 
-L 3155 742 
-z
-" transform="scale(0.015625)"/>
-      <path id="DINPro-Bold-36" d="M 3149 1382 
-C 3149 2227 2566 2733 1952 2733 
-C 1843 2733 1722 2720 1613 2675 
-L 2560 4557 
-L 1651 4557 
-L 691 2586 
-C 486 2170 307 1786 307 1370 
-C 307 467 922 -38 1728 -38 
-C 2534 -38 3149 486 3149 1382 
-z
-M 2317 1376 
-C 2317 954 2067 710 1728 710 
-C 1389 710 1139 954 1139 1376 
-C 1139 1798 1389 2042 1728 2042 
-C 2080 2042 2317 1779 2317 1376 
-z
-" transform="scale(0.015625)"/>
-     </defs>
-     <use xlink:href="#DINPro-Bold-54"/>
-     <use xlink:href="#DINPro-Bold-68" x="57.099991"/>
-     <use xlink:href="#DINPro-Bold-65" x="113.999985"/>
-     <use xlink:href="#DINPro-Bold-20" x="168.799973"/>
-     <use xlink:href="#DINPro-Bold-45" x="191.999969"/>
-     <use xlink:href="#DINPro-Bold-78" x="252.499954"/>
-     <use xlink:href="#DINPro-Bold-63" x="305.199951"/>
-     <use xlink:href="#DINPro-Bold-69" x="353.199936"/>
-     <use xlink:href="#DINPro-Bold-74" x="380.699921"/>
-     <use xlink:href="#DINPro-Bold-65" x="415.899918"/>
-     <use xlink:href="#DINPro-Bold-64" x="470.699905"/>
-     <use xlink:href="#DINPro-Bold-20" x="526.799896"/>
-     <use xlink:href="#DINPro-Bold-53" x="549.999893"/>
-     <use xlink:href="#DINPro-Bold-74" x="609.099884"/>
-     <use xlink:href="#DINPro-Bold-61" x="644.299881"/>
-     <use xlink:href="#DINPro-Bold-74" x="697.699875"/>
-     <use xlink:href="#DINPro-Bold-65" x="732.899872"/>
-     <use xlink:href="#DINPro-Bold-20" x="787.69986"/>
-     <use xlink:href="#DINPro-Bold-6e" x="810.899857"/>
-     <use xlink:href="#DINPro-Bold-3d" x="868.199844"/>
-     <use xlink:href="#DINPro-Bold-31" x="922.499832"/>
-     <use xlink:href="#DINPro-Bold-36" x="976.79982"/>
-    </g>
    </g>
   </g>
  </g>
  <defs>
-  <clipPath id="p4b7aeb01a1">
+  <clipPath id="pb0ea09ea4a">
    <rect x="54" y="51.84" width="334.8" height="332.64"/>
   </clipPath>
  </defs>
