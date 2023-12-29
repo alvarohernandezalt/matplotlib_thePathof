@@ -1,4 +1,5 @@
 import matplotlib.patheffects as pe
+import matplotlib.pyplot as plt
 
 fig, ax = plt.subplots(facecolor="#F2F2F2")
 ax.axis("off")
@@ -19,6 +20,15 @@ for i, (label, color) in enumerate(zip(tLabels, tColors)):
         va="center",
     )
     text.set_path_effects([pe.withStroke(linewidth=5, foreground="k")])
+
+    # Get the bounding box of the text in display coordinates
+    bbox_display = text.get_window_extent()
+
+    # Convert the bounding box to data coordinates
+    bbox_data = ax.transData.inverted().transform_bbox(bbox_display)
+
+    # Print the bounding box to the console
+    print(f"Bounding box for '{label}': {bbox_data}")
 
 plt.savefig("WhySoMuchColors.pdf", bbox_inches="tight")
 plt.show()
