@@ -20,5 +20,5 @@ for i, (label, color) in enumerate(zip(tLabels, tColors)):
     )
     text.set_path_effects([pe.withStroke(linewidth=5, foreground="k")])
 
+plt.savefig("WhySoMuchColors.pdf", bbox_inches="tight")
 plt.show()
-plt.savefig("WhySoMuchColors.pdf")
