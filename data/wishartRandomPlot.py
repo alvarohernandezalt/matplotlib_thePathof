@@ -21,6 +21,7 @@ ax.set_ylim(0,0.3)
 formatter = FuncFormatter(lambda x, pos: "{:.2f}".format(x))
 ax.xaxis.set_major_formatter(formatter)
 
+
 scale_matrix = np.array([[1]])
 
 x = np.linspace(1e-5, 8, 100)
@@ -37,7 +38,7 @@ ax.plot([z,z],
        color='#EB452A',
        linestyle='dashed')
 ax.plot(z,pdfz,color='#EB452A',marker='.',)
-ax.text(z + .1, pdfz,
+ax.text(z + .15, pdfz - 0.002,
         s='z = {:.2f}'.format(z), color='#C6C8CB', size = 11)
 
 # Fill the area
@@ -55,22 +56,25 @@ def pdf(x):
 
 area, error = quad(pdf, 1e-5, z)
 
-ax.text(z/2, pdfz/2,
-        s='{:.2f}'.format(area),
-        fontproperties=font2, # you need to declare the fontproperties first
-        size = 11,
-        color='#C6C8CB',
-        ha='center');
-
 # Existing code
 ax2 = ax.twinx()  # Create a second y-axis
 
+
+ax2.tick_params(axis='y', colors='#C6C8CB')
+
+ax2.xaxis.set_major_formatter(formatter)
+
+
+# Change the color of spines
+for spine in 'bottom', 'left', 'top', 'right':
+  ax2.spines[spine].set_color('#C6C8CB')
+
 # Calculate the areas for all z values and plot them
 areas = [quad(pdf, 1e-5, z_val)[0] for z_val in x]
-ax2.plot(x, areas, color='blue', linestyle='dashed')
+ax2.plot(x, areas, color='#E9530D', linestyle='dotted')
 
 # Set the y-label for the second y-axis
-ax2.set_ylabel('Area under the curve', color='blue')
+ax2.set_ylabel('Area under the curve', color='#C6C8CB')
 
 
 # Calculate the scaling factor
@@ -81,5 +85,12 @@ ymin, ymax = ax.get_ylim()
 
 # Set the y-limits of the secondary axis using the scaling factor
 ax2.set_ylim(ymin * scale_factor, ymax * scale_factor)
+
+ax.text(z/2 + .3, pdfz/2,
+        s='{:.2f}'.format(area),
+        fontproperties=font2,
+        size = 11,
+        color='#C6C8CB',
+        ha='center');
 
 plt.savefig('WishartRandomVariable.pdf', bbox_inches='tight')
