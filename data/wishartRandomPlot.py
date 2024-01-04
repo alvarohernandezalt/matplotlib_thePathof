@@ -32,11 +32,7 @@ ax.plot(z,pdfz,color='#EB452A',marker='.',)
 ax.text(z + .1, pdfz,
         s=f'z = {z}', color='#C6C8CB')
 
-# Fill the area
-x_vals = np.linspace(0, z, 100)
-pdfx_vals = wishart.pdf(x_vals, df=3, scale=1); w[:5]
-ax.fill_between(x_vals,
-                np.zeros(100),
-                pdfx_vals,
-                color='#EBA62A',
-                alpha=.5)
+# New code to fill the area
+x_fill = np.linspace(1e-5, z, 100)
+y_fill = wishart.pdf(x_fill, df=3, scale=1)
+ax.fill_between(x_fill, 0, y_fill, color='#EBA62A', alpha=0.5)
