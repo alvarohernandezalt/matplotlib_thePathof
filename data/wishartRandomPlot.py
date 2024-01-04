@@ -57,9 +57,29 @@ area, error = quad(pdf, 1e-5, z)
 
 ax.text(z/2, pdfz/2,
         s='{:.2f}'.format(area),
-        fontproperties=font2,
+        fontproperties=font2, # you need to declare the fontproperties first
         size = 11,
         color='#C6C8CB',
         ha='center');
+
+# Existing code
+ax2 = ax.twinx()  # Create a second y-axis
+
+# Calculate the areas for all z values and plot them
+areas = [quad(pdf, 1e-5, z_val)[0] for z_val in x]
+ax2.plot(x, areas, color='blue', linestyle='dashed')
+
+# Set the y-label for the second y-axis
+ax2.set_ylabel('Area under the curve', color='blue')
+
+
+# Calculate the scaling factor
+scale_factor =  0.65 / 0.13918138075553632 
+
+# Get the current y-limits of the primary axis
+ymin, ymax = ax.get_ylim()
+
+# Set the y-limits of the secondary axis using the scaling factor
+ax2.set_ylim(ymin * scale_factor, ymax * scale_factor)
 
 plt.savefig('WishartRandomVariable.pdf', bbox_inches='tight')
