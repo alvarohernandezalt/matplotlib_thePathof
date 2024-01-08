@@ -1,19 +1,27 @@
 import matplotlib.pyplot as plt
+from matplotlib.font_manager import FontProperties
 
-fig, ax = plt.subplots(1,2)
-ax[0].set_title('X0', color='#C6C8CB', fontproperties=font2)
-ax[1].set_title('X1', color='#C6C8CB', fontproperties=font2)
+font2 = FontProperties()
+font2.set_family('DINPro')
+font2.set_weight('bold')
 
-# Change the params of both ticks and ticklegend
-ax[0].tick_params(axis='x', colors='#C6C8CB')
-ax[0].tick_params(axis='y', colors='#C6C8CB')
-ax[1].tick_params(axis='x', colors='#C6C8CB')
-ax[1].tick_params(axis='y', colors='#C6C8CB')
+fig = plt.figure(facecolor='#9F9F9F')
 
-# Change the color of spines
-for spine in 'bottom', 'left', 'top', 'right':
-  ax[0].spines[spine].set_color('#C6C8CB')
-for spine in 'bottom', 'left', 'top', 'right':
-  ax[1].spines[spine].set_color('#C6C8CB')
+for i in range(1,10):
+  ax = fig.add_subplot(3,3,i)
+  for spine in 'bottom', 'left', 'top', 'right':
+    ax.spines[spine].set_color('#C6C8CB')
+  ax.set_xticks([])
+  ax.set_yticks([])
+  ax.set_facecolor('#9F9F9F')
+  ax.text(0.5,0.5,
+          s=str(i),
+          ha='center',
+          va='center',
+          fontproperties=font2,
+          fontsize=25,
+          color='#C6C8CB')
+  ax.set_title(f'Chart {i}', fontproperties=font2, color='#C6C8CB')
 
-plt.tight_layout()
+fig.suptitle('Chart of Charts', fontproperties=font2, color='#C6C8CB', fontsize=13)
+plt.tight_layout(rect=(0,0,1,1))
