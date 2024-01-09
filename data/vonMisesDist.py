@@ -57,6 +57,24 @@ for spine in 'bottom', 'left', 'top', 'right':
 ax3.xaxis.set_major_formatter(formatter)
 ax3.yaxis.set_major_formatter(formatter)
 
+# Get the dimensions of ax3
+bbox = ax3.get_position()
+width, height = bbox.width, bbox.height
+
+# Create a new subplot in the empty part of the grid
+ax4 = fig.add_subplot(spec[1, 3:4], facecolor='#9F9F9F')
+
+# Add the text to the subplot
+text = 'The von Mises distribution (also known as the circular normal distribution) is a continuous probability distribution on the unit circle. \nIt may be thought of as the circular analogue of the normal distribution.'
+ax4.text(0, 0.5, text,
+         color='#C6C8CB',  # same color as the ticks
+         ha='left',  # horizontal alignment
+         va='center',  # vertical alignment
+         wrap=True)  # enable text wrapping
+
+# Hide the x and y axis
+ax4.axis('off')
+
 fig.suptitle('von Mises Distribution', fontproperties=font2, color='#C6C8CB', fontsize=13, x=0.5, y=0.98)
 
 plt.tight_layout()
