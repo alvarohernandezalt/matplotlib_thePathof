@@ -5,9 +5,11 @@ from matplotlib.patches import ConnectionPatch
 import matplotlib.gridspec as gridspec
 from matplotlib.ticker import FuncFormatter
 
+# Set the font properties (can also be done as above)
 font2 = FontProperties()
 font2.set_family('DINPro')
 font2.set_weight('bold')
+
 
 fig = plt.figure(figsize=(12,6),facecolor='#9F9F9F')
 
@@ -69,12 +71,12 @@ width, height = bbox.width, bbox.height
 ax4 = fig.add_subplot(spec[1, 3:4], facecolor='#9F9F9F')
 
 # Add the text to the subplot
-text = 'The von Mises distribution (also known as the circular normal distribution) is a continuous probability distribution on the unit circle. \nIt may be thought of as the circular analogue of the normal distribution.'
+text = 'The von Mises distribution (also known \nas the circular normal distribution) is a \ncontinuous probability distribution \non the unit circle. \n\nIt may be thought of as the circular \nanalogue of the normal distribution.'
 ax4.text(0, 0.5, text,
          color='#C6C8CB',  # same color as the ticks
          ha='left',  # horizontal alignment
-         va='center',  # vertical alignment
-         wrap=True)  # enable text wrapping
+         # vertical alignment
+         wrap=True)  # wrap text in a box
 
 # Hide the x and y axis
 ax4.axis('off')
@@ -82,4 +84,4 @@ ax4.axis('off')
 fig.suptitle('von Mises Distribution', fontproperties=font2, color='#C6C8CB', fontsize=13, x=0.5, y=0.98)
 
 plt.tight_layout()
-plt.savefig('vonMisesDist.pdf', bbox_inches='tight');
+plt.savefig('vonMisesDist.pdf', bbox_inches='tight')
