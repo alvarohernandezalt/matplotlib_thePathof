@@ -36,5 +36,28 @@ for spine in 'bottom', 'left', 'top', 'right':
 ax1.xaxis.set_major_formatter(formatter)
 ax1.yaxis.set_major_formatter(formatter)
 
+ax2 = fig.add_subplot(spec[1, 0:3], sharex = ax1, facecolor='#9F9F9F')
+ax2.hist(y, orientation='vertical', bins=50, color='#E8C16D')
+ax2.invert_yaxis()
+ax2.tick_params(axis='x', colors='#C6C8CB')
+ax2.tick_params(axis='y', colors='#C6C8CB')
+for spine in 'bottom', 'left', 'top', 'right':
+    ax2.spines[spine].set_color('#C6C8CB')
+
+ax2.xaxis.set_major_formatter(formatter)
+ax2.yaxis.set_major_formatter(formatter)
+
+ax3 = fig.add_subplot(spec[0, 3:4], sharey = ax1, facecolor='#9F9F9F')
+ax3.hist(x, orientation='horizontal', bins=50, color='#E8C16D')
+ax3.tick_params(axis='x', colors='#C6C8CB')
+ax3.tick_params(axis='y', colors='#C6C8CB')
+for spine in 'bottom', 'left', 'top', 'right':
+    ax3.spines[spine].set_color('#C6C8CB')
+
+ax3.xaxis.set_major_formatter(formatter)
+ax3.yaxis.set_major_formatter(formatter)
 
 fig.suptitle('von Mises Distribution', fontproperties=font2, color='#C6C8CB', fontsize=13, x=0.5, y=0.98)
+
+plt.tight_layout()
+plt.savefig('vonMisesDist.pdf', bbox_inches='tight');
