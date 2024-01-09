@@ -11,8 +11,10 @@ font2.set_weight('bold')
 
 fig = plt.figure(figsize=(12,6),facecolor='#9F9F9F')
 
+# Create a custom formatter for the x and y axis ticks
 formatter = FuncFormatter(lambda x, pos: "{:.1f}".format(x))
 
+# Create a grid of 2x4 subplots and place the subplots in the grid
 spec = gridspec.GridSpec(ncols=4,
                          nrows=2,
                          figure=fig)
@@ -22,14 +24,16 @@ mu, kappa = 0.0, 10.0 # Mean and Dispersion
 x = np.random.vonmises(mu, kappa, 1000)
 y = x**3 + np.random.vonmises(mu, kappa, 1000)
 
+# Plot the samples using a scatter plot
 ax1 = fig.add_subplot(spec[0, 0:3], facecolor='#9F9F9F')
 ax1.plot(x,y,
          linestyle='None',
          marker='.',
          alpha=0.5,
          color='#E8C16D')
-ax1.tick_params(axis='x', colors='#C6C8CB')
-ax1.tick_params(axis='y', colors='#C6C8CB')
+ax1.tick_params(axis='x', colors='#C6C8CB') # Set the color of the x-axis ticks
+ax1.tick_params(axis='y', colors='#C6C8CB') # Set the color of the y-axis ticks
+# Set the color of the spines
 for spine in 'bottom', 'left', 'top', 'right':
     ax1.spines[spine].set_color('#C6C8CB')
 
