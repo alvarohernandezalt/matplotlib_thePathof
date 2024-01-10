@@ -1,0 +1,14 @@
+axes.linewidth: 2
+axes.facecolor: #9F9F9F
+axes.grid.axis: True
+
+grid.color: #C6C8CB
+grid.linewidth: 1
+
+axes.spines.left: False
+axes.spines.right: False
+axes.spines.top: False
+axes.spines.bottom: True
+axes.edgecolor: #C6C8CB
+
+
