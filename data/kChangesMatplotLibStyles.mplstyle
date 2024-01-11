@@ -11,4 +11,20 @@ axes.spines.top: False
 axes.spines.bottom: True
 axes.edgecolor: #C6C8CB
 
+xtick.bottom: False
+xtick.top: False
+ytick.left: False
+xtick.labeltop: True
+xtick.labelbottom: False
+ytick.labelleft: False
+xtick.color: #C6C8CB
 
+text.color: #C6C8CB
+font.size: 10
+
+lines.marker: o
+lines.markersize: 7
+axes.titlesize: 14
+axes.titleweight: bold
+
+axes.formatter.useoffset: False
