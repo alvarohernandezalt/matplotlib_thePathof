@@ -18,7 +18,7 @@ xtick.labeltop: True
 xtick.labelbottom: False
 ytick.labelleft: False
 xtick.color: "#C6C8CB"
-
+ 
 text.color: "#C6C8CB"
 font.size: 10
 
