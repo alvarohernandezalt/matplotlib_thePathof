@@ -1,15 +1,15 @@
 axes.linewidth: 2
-axes.facecolor: #9F9F9F
-axes.grid.axis: True
+axes.facecolor: "#9F9F9F"
+axes.grid.axis: both
 
-grid.color: #C6C8CB
+grid.color: "#C6C8CB"
 grid.linewidth: 1
 
 axes.spines.left: False
 axes.spines.right: False
 axes.spines.top: False
 axes.spines.bottom: True
-axes.edgecolor: #C6C8CB
+axes.edgecolor: "#C6C8CB"
 
 xtick.bottom: False
 xtick.top: False
@@ -17,9 +17,9 @@ ytick.left: False
 xtick.labeltop: True
 xtick.labelbottom: False
 ytick.labelleft: False
-xtick.color: #C6C8CB
+xtick.color: "#C6C8CB"
 
-text.color: #C6C8CB
+text.color: "#C6C8CB"
 font.size: 10
 
 lines.marker: o
