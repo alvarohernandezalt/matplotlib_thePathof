@@ -1,0 +1,1652 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="631.7pt" height="437.641875pt" viewBox="0 0 631.7 437.641875" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2024-03-07T18:27:38.731196</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.7.1, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 437.641875 
+L 631.7 437.641875 
+L 631.7 -0 
+L 0 -0 
+z
+" style="fill: #c6c8cb"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 66.5 355.51125 
+L 624.5 355.51125 
+L 624.5 22.87125 
+L 66.5 22.87125 
+z
+" style="fill: #c6c8cb"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 91.863636 355.51125 
+L 198.657895 355.51125 
+L 198.657895 174.030107 
+L 91.863636 174.030107 
+z
+" clip-path="url(#p3a2b3bb40d)" style="fill: #e9530d"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 225.356459 355.51125 
+L 332.150718 355.51125 
+L 332.150718 237.842679 
+L 225.356459 237.842679 
+z
+" clip-path="url(#p3a2b3bb40d)" style="fill: #e9530d"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 358.849282 355.51125 
+L 465.643541 355.51125 
+L 465.643541 38.71125 
+L 358.849282 38.71125 
+z
+" clip-path="url(#p3a2b3bb40d)" style="fill: #e9530d"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 492.342105 355.51125 
+L 599.136364 355.51125 
+L 599.136364 272.539821 
+L 492.342105 272.539821 
+z
+" clip-path="url(#p3a2b3bb40d)" style="fill: #e9530d"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_1">
+      <defs>
+       <path id="m61fc489aac" d="M 0 0 
+L 0 3.5 
+" style="stroke: #5f5f5f; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#m61fc489aac" x="145.260766" y="355.51125" style="fill: #5f5f5f; stroke: #5f5f5f; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_1">
+      <!-- AIR + NOLOCO(25)** -->
+      <g style="fill: #5f5f5f" transform="translate(99.320141 369.631562) scale(0.1 -0.1)">
+       <defs>
+        <path id="DINPro-Bold-41" d="M 4051 0 
+L 2387 4557 
+L 1690 4557 
+L 32 0 
+L 960 0 
+L 1235 806 
+L 2854 806 
+L 3123 0 
+L 4051 0 
+z
+M 2618 1555 
+L 1485 1555 
+L 2061 3213 
+L 2618 1555 
+z
+" transform="scale(0.015625)"/>
+        <path id="DINPro-Bold-49" d="M 1421 0 
+L 1421 4557 
+L 531 4557 
+L 531 0 
+L 1421 0 
+z
+" transform="scale(0.015625)"/>
+        <path id="DINPro-Bold-52" d="M 3981 0 
+L 2963 1965 
+C 3405 2125 3795 2522 3795 3162 
+C 3795 3923 3245 4557 2317 4557 
+L 531 4557 
+L 531 0 
+L 1421 0 
+L 1421 1818 
+L 2061 1818 
+L 2950 0 
+L 3981 0 
+z
+M 2906 3162 
+C 2906 2810 2650 2560 2259 2560 
+L 1421 2560 
+L 1421 3763 
+L 2259 3763 
+C 2650 3763 2906 3514 2906 3162 
+z
+" transform="scale(0.015625)"/>
+        <path id="DINPro-Bold-20" transform="scale(0.015625)"/>
+        <path id="DINPro-Bold-2b" d="M 3155 1382 
+L 3155 2163 
+L 2131 2163 
+L 2131 3187 
+L 1350 3187 
+L 1350 2163 
+L 320 2163 
+L 320 1382 
+L 1350 1382 
+L 1350 358 
+L 2131 358 
+L 2131 1382 
+L 3155 1382 
+z
+" transform="scale(0.015625)"/>
+        <path id="DINPro-Bold-4e" d="M 4019 0 
+L 4019 4557 
+L 3130 4557 
+L 3130 1766 
+L 1325 4557 
+L 531 4557 
+L 531 0 
+L 1421 0 
+L 1421 2797 
+L 3226 0 
+L 4019 0 
+z
+" transform="scale(0.015625)"/>
+        <path id="DINPro-Bold-4f" d="M 3744 2278 
+C 3744 3066 3750 3635 3290 4096 
+C 2970 4416 2579 4595 2061 4595 
+C 1542 4595 1146 4416 826 4096 
+C 365 3635 378 3066 378 2278 
+C 378 1491 365 922 826 461 
+C 1146 141 1542 -38 2061 -38 
+C 2579 -38 2970 141 3290 461 
+C 3750 922 3744 1491 3744 2278 
+z
+M 2854 2278 
+C 2854 1402 2803 1190 2630 998 
+C 2502 851 2304 755 2061 755 
+C 1818 755 1613 851 1485 998 
+C 1312 1190 1267 1402 1267 2278 
+C 1267 3155 1312 3366 1485 3558 
+C 1613 3706 1818 3802 2061 3802 
+C 2304 3802 2502 3706 2630 3558 
+C 2803 3366 2854 3155 2854 2278 
+z
+" transform="scale(0.015625)"/>
+        <path id="DINPro-Bold-4c" d="M 3488 0 
+L 3488 794 
+L 1421 794 
+L 1421 4557 
+L 531 4557 
+L 531 0 
+L 3488 0 
+z
+" transform="scale(0.015625)"/>
+        <path id="DINPro-Bold-43" d="M 3731 1402 
+L 2829 1402 
+C 2733 1011 2490 755 2061 755 
+C 1818 755 1626 832 1491 992 
+C 1306 1190 1267 1395 1267 2278 
+C 1267 3162 1306 3366 1491 3565 
+C 1626 3725 1818 3802 2061 3802 
+C 2490 3802 2733 3546 2829 3155 
+L 3731 3155 
+C 3578 4083 2931 4595 2054 4595 
+C 1568 4595 1158 4429 826 4096 
+C 627 3898 506 3674 454 3411 
+C 403 3155 378 2778 378 2278 
+C 378 1779 403 1402 454 1146 
+C 506 890 627 659 826 461 
+C 1158 128 1568 -38 2054 -38 
+C 2925 -38 3578 474 3731 1402 
+z
+" transform="scale(0.015625)"/>
+        <path id="DINPro-Bold-28" d="M 1798 -45 
+C 1645 109 1549 198 1440 384 
+C 1376 499 1344 678 1344 922 
+L 1344 3635 
+C 1344 3878 1376 4058 1440 4173 
+C 1549 4358 1645 4448 1798 4602 
+L 1242 5158 
+C 1030 4947 826 4749 678 4499 
+C 531 4243 512 3955 512 3674 
+L 512 883 
+C 512 602 531 314 678 58 
+C 826 -192 1030 -390 1242 -602 
+L 1798 -45 
+z
+" transform="scale(0.015625)"/>
+        <path id="DINPro-Bold-32" d="M 3149 0 
+L 3149 749 
+L 1389 749 
+L 2662 2227 
+C 2976 2592 3149 2829 3149 3270 
+C 3149 4090 2573 4595 1766 4595 
+C 986 4595 378 4096 378 3264 
+L 1210 3264 
+C 1210 3706 1491 3846 1766 3846 
+C 2118 3846 2317 3616 2317 3277 
+C 2317 3066 2246 2925 2080 2726 
+L 378 749 
+L 378 0 
+L 3149 0 
+z
+" transform="scale(0.015625)"/>
+        <path id="DINPro-Bold-35" d="M 3162 1536 
+C 3162 1965 3110 2394 2752 2752 
+C 2566 2938 2278 3059 1901 3059 
+C 1594 3059 1338 2944 1216 2829 
+L 1216 3808 
+L 3059 3808 
+L 3059 4557 
+L 461 4557 
+L 461 1984 
+L 1222 1984 
+C 1280 2163 1434 2355 1773 2355 
+C 2176 2355 2330 2061 2330 1536 
+C 2330 1248 2298 1005 2150 858 
+C 2048 755 1914 710 1754 710 
+C 1408 710 1242 915 1197 1274 
+L 365 1274 
+C 390 941 454 608 736 326 
+C 934 128 1280 -38 1754 -38 
+C 2227 -38 2554 128 2758 333 
+C 3091 666 3162 1024 3162 1536 
+z
+" transform="scale(0.015625)"/>
+        <path id="DINPro-Bold-29" d="M 1638 883 
+L 1638 3674 
+C 1638 3955 1619 4243 1472 4499 
+C 1325 4749 1120 4947 909 5158 
+L 346 4595 
+C 499 4442 595 4358 704 4173 
+C 768 4058 800 3878 800 3635 
+L 800 922 
+C 800 678 768 499 704 384 
+C 595 198 499 115 346 -38 
+L 909 -602 
+C 1120 -390 1325 -192 1472 58 
+C 1619 314 1638 602 1638 883 
+z
+" transform="scale(0.015625)"/>
+        <path id="DINPro-Bold-2a" d="M 2816 2944 
+L 2106 3315 
+L 2816 3686 
+L 2522 4198 
+L 1850 3770 
+L 1875 4570 
+L 1286 4570 
+L 1318 3770 
+L 640 4198 
+L 352 3686 
+L 1056 3315 
+L 352 2944 
+L 640 2438 
+L 1318 2861 
+L 1286 2061 
+L 1875 2061 
+L 1850 2861 
+L 2522 2438 
+L 2816 2944 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#DINPro-Bold-41"/>
+       <use xlink:href="#DINPro-Bold-49" x="63.799988"/>
+       <use xlink:href="#DINPro-Bold-52" x="94.299973"/>
+       <use xlink:href="#DINPro-Bold-20" x="159.699966"/>
+       <use xlink:href="#DINPro-Bold-2b" x="182.899963"/>
+       <use xlink:href="#DINPro-Bold-20" x="237.199951"/>
+       <use xlink:href="#DINPro-Bold-4e" x="260.399948"/>
+       <use xlink:href="#DINPro-Bold-4f" x="331.499939"/>
+       <use xlink:href="#DINPro-Bold-4c" x="395.899933"/>
+       <use xlink:href="#DINPro-Bold-4f" x="453.399918"/>
+       <use xlink:href="#DINPro-Bold-43" x="517.799911"/>
+       <use xlink:href="#DINPro-Bold-4f" x="579.799896"/>
+       <use xlink:href="#DINPro-Bold-28" x="644.19989"/>
+       <use xlink:href="#DINPro-Bold-32" x="677.799881"/>
+       <use xlink:href="#DINPro-Bold-35" x="732.099869"/>
+       <use xlink:href="#DINPro-Bold-29" x="786.399857"/>
+       <use xlink:href="#DINPro-Bold-2a" x="819.999847"/>
+       <use xlink:href="#DINPro-Bold-2a" x="869.399841"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_2">
+      <g>
+       <use xlink:href="#m61fc489aac" x="278.753589" y="355.51125" style="fill: #5f5f5f; stroke: #5f5f5f; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_2">
+      <!-- AIR + NOLOCO(15)* -->
+      <g style="fill: #5f5f5f" transform="translate(235.283276 369.631562) scale(0.1 -0.1)">
+       <defs>
+        <path id="DINPro-Bold-31" d="M 2419 0 
+L 2419 4557 
+L 1587 4557 
+L 659 3750 
+L 659 2854 
+L 1587 3661 
+L 1587 0 
+L 2419 0 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#DINPro-Bold-41"/>
+       <use xlink:href="#DINPro-Bold-49" x="63.799988"/>
+       <use xlink:href="#DINPro-Bold-52" x="94.299973"/>
+       <use xlink:href="#DINPro-Bold-20" x="159.699966"/>
+       <use xlink:href="#DINPro-Bold-2b" x="182.899963"/>
+       <use xlink:href="#DINPro-Bold-20" x="237.199951"/>
+       <use xlink:href="#DINPro-Bold-4e" x="260.399948"/>
+       <use xlink:href="#DINPro-Bold-4f" x="331.499939"/>
+       <use xlink:href="#DINPro-Bold-4c" x="395.899933"/>
+       <use xlink:href="#DINPro-Bold-4f" x="453.399918"/>
+       <use xlink:href="#DINPro-Bold-43" x="517.799911"/>
+       <use xlink:href="#DINPro-Bold-4f" x="579.799896"/>
+       <use xlink:href="#DINPro-Bold-28" x="644.19989"/>
+       <use xlink:href="#DINPro-Bold-31" x="677.799881"/>
+       <use xlink:href="#DINPro-Bold-35" x="732.099869"/>
+       <use xlink:href="#DINPro-Bold-29" x="786.399857"/>
+       <use xlink:href="#DINPro-Bold-2a" x="819.999847"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_3">
+     <g id="line2d_3">
+      <g>
+       <use xlink:href="#m61fc489aac" x="412.246411" y="355.51125" style="fill: #5f5f5f; stroke: #5f5f5f; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_3">
+      <!-- AIRTABLE -->
+      <g style="fill: #5f5f5f" transform="translate(389.02688 369.631562) scale(0.1 -0.1)">
+       <defs>
+        <path id="DINPro-Bold-54" d="M 3462 3763 
+L 3462 4557 
+L 192 4557 
+L 192 3763 
+L 1382 3763 
+L 1382 0 
+L 2272 0 
+L 2272 3763 
+L 3462 3763 
+z
+" transform="scale(0.015625)"/>
+        <path id="DINPro-Bold-42" d="M 3834 1312 
+C 3834 1920 3482 2208 3206 2336 
+C 3437 2445 3770 2771 3770 3277 
+C 3770 4058 3251 4557 2362 4557 
+L 531 4557 
+L 531 0 
+L 2438 0 
+C 3251 0 3834 461 3834 1312 
+z
+M 2944 1357 
+C 2944 1050 2752 794 2349 794 
+L 1421 794 
+L 1421 1914 
+L 2349 1914 
+C 2752 1914 2944 1664 2944 1357 
+z
+M 2880 3238 
+C 2880 2925 2669 2714 2291 2714 
+L 1421 2714 
+L 1421 3763 
+L 2291 3763 
+C 2669 3763 2880 3552 2880 3238 
+z
+" transform="scale(0.015625)"/>
+        <path id="DINPro-Bold-45" d="M 3533 0 
+L 3533 794 
+L 1421 794 
+L 1421 1901 
+L 3219 1901 
+L 3219 2694 
+L 1421 2694 
+L 1421 3763 
+L 3533 3763 
+L 3533 4557 
+L 531 4557 
+L 531 0 
+L 3533 0 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#DINPro-Bold-41"/>
+       <use xlink:href="#DINPro-Bold-49" x="63.799988"/>
+       <use xlink:href="#DINPro-Bold-52" x="94.299973"/>
+       <use xlink:href="#DINPro-Bold-54" x="159.699966"/>
+       <use xlink:href="#DINPro-Bold-41" x="216.799957"/>
+       <use xlink:href="#DINPro-Bold-42" x="280.599945"/>
+       <use xlink:href="#DINPro-Bold-4c" x="346.399933"/>
+       <use xlink:href="#DINPro-Bold-45" x="403.899918"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_4">
+     <g id="line2d_4">
+      <g>
+       <use xlink:href="#m61fc489aac" x="545.739234" y="355.51125" style="fill: #5f5f5f; stroke: #5f5f5f; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_4">
+      <!-- MYSQL + NODB + NOLOCO*** -->
+      <g style="fill: #5f5f5f" transform="translate(479.747828 369.631562) scale(0.1 -0.1)">
+       <defs>
+        <path id="DINPro-Bold-4d" d="M 4659 0 
+L 4659 4557 
+L 3782 4557 
+L 2598 2093 
+L 1408 4557 
+L 531 4557 
+L 531 0 
+L 1421 0 
+L 1421 2656 
+L 2298 928 
+L 2899 928 
+L 3770 2656 
+L 3770 0 
+L 4659 0 
+z
+" transform="scale(0.015625)"/>
+        <path id="DINPro-Bold-59" d="M 3642 4557 
+L 2675 4557 
+L 1837 2720 
+L 986 4557 
+L 19 4557 
+L 1389 1869 
+L 1389 0 
+L 2272 0 
+L 2272 1869 
+L 3642 4557 
+z
+" transform="scale(0.015625)"/>
+        <path id="DINPro-Bold-53" d="M 3475 1344 
+C 3475 1747 3366 2080 3123 2310 
+C 2931 2490 2669 2605 2253 2662 
+L 1715 2739 
+C 1530 2765 1382 2835 1293 2918 
+C 1197 3008 1158 3130 1158 3245 
+C 1158 3558 1389 3821 1862 3821 
+C 2163 3821 2509 3782 2797 3507 
+L 3360 4064 
+C 2970 4442 2515 4595 1888 4595 
+C 902 4595 301 4026 301 3213 
+C 301 2829 410 2534 627 2317 
+C 832 2118 1120 1997 1510 1939 
+L 2061 1862 
+C 2272 1830 2374 1786 2464 1702 
+C 2560 1613 2605 1478 2605 1318 
+C 2605 954 2323 755 1798 755 
+C 1376 755 986 851 698 1139 
+L 122 563 
+C 570 109 1094 -38 1786 -38 
+C 2739 -38 3475 461 3475 1344 
+z
+" transform="scale(0.015625)"/>
+        <path id="DINPro-Bold-51" d="M 3853 275 
+L 3462 666 
+C 3750 1088 3744 1594 3744 2278 
+C 3744 3066 3750 3635 3290 4096 
+C 2970 4416 2579 4595 2061 4595 
+C 1542 4595 1146 4416 826 4096 
+C 365 3635 378 3066 378 2278 
+C 378 1491 365 922 826 461 
+C 1146 141 1542 -38 2061 -38 
+C 2419 -38 2726 45 2982 211 
+L 3386 -192 
+L 3853 275 
+z
+M 2854 2278 
+C 2854 1818 2842 1555 2771 1357 
+L 2432 1696 
+L 1958 1229 
+L 2355 838 
+C 2272 781 2170 755 2061 755 
+C 1818 755 1613 851 1485 998 
+C 1312 1190 1267 1402 1267 2278 
+C 1267 3155 1312 3366 1485 3558 
+C 1613 3706 1818 3802 2061 3802 
+C 2304 3802 2502 3706 2630 3558 
+C 2803 3366 2854 3155 2854 2278 
+z
+" transform="scale(0.015625)"/>
+        <path id="DINPro-Bold-44" d="M 3840 2298 
+C 3840 2982 3891 3610 3379 4122 
+C 3078 4422 2650 4557 2176 4557 
+L 531 4557 
+L 531 0 
+L 2176 0 
+C 2650 0 3078 134 3379 435 
+C 3891 947 3840 1613 3840 2298 
+z
+M 2950 2298 
+C 2950 1606 2925 1280 2758 1075 
+C 2605 890 2400 794 2093 794 
+L 1421 794 
+L 1421 3763 
+L 2093 3763 
+C 2400 3763 2605 3667 2758 3482 
+C 2925 3277 2950 2989 2950 2298 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#DINPro-Bold-4d"/>
+       <use xlink:href="#DINPro-Bold-59" x="81.099991"/>
+       <use xlink:href="#DINPro-Bold-53" x="138.299988"/>
+       <use xlink:href="#DINPro-Bold-51" x="197.399979"/>
+       <use xlink:href="#DINPro-Bold-4c" x="261.699966"/>
+       <use xlink:href="#DINPro-Bold-20" x="319.199951"/>
+       <use xlink:href="#DINPro-Bold-2b" x="342.399948"/>
+       <use xlink:href="#DINPro-Bold-20" x="396.699936"/>
+       <use xlink:href="#DINPro-Bold-4e" x="419.899933"/>
+       <use xlink:href="#DINPro-Bold-4f" x="490.999924"/>
+       <use xlink:href="#DINPro-Bold-44" x="555.399918"/>
+       <use xlink:href="#DINPro-Bold-42" x="621.299911"/>
+       <use xlink:href="#DINPro-Bold-20" x="687.099899"/>
+       <use xlink:href="#DINPro-Bold-2b" x="710.299896"/>
+       <use xlink:href="#DINPro-Bold-20" x="764.599884"/>
+       <use xlink:href="#DINPro-Bold-4e" x="787.799881"/>
+       <use xlink:href="#DINPro-Bold-4f" x="858.899872"/>
+       <use xlink:href="#DINPro-Bold-4c" x="923.299866"/>
+       <use xlink:href="#DINPro-Bold-4f" x="980.79985"/>
+       <use xlink:href="#DINPro-Bold-43" x="1045.199844"/>
+       <use xlink:href="#DINPro-Bold-4f" x="1107.199829"/>
+       <use xlink:href="#DINPro-Bold-2a" x="1171.599823"/>
+       <use xlink:href="#DINPro-Bold-2a" x="1220.999817"/>
+       <use xlink:href="#DINPro-Bold-2a" x="1270.399811"/>
+      </g>
+     </g>
+    </g>
+    <g id="text_5">
+     <!-- Opciones -->
+     <g style="fill: #5f5f5f" transform="translate(324.880469 382.720625) scale(0.1 -0.1)">
+      <defs>
+       <path id="DINPro-Bold-70" d="M 3258 1670 
+C 3258 2170 3251 2739 2918 3072 
+C 2733 3258 2432 3373 2106 3373 
+C 1754 3373 1504 3277 1274 3021 
+L 1274 3334 
+L 467 3334 
+L 467 -1222 
+L 1299 -1222 
+L 1299 294 
+C 1517 51 1766 -38 2106 -38 
+C 2432 -38 2733 77 2918 262 
+C 3251 595 3258 1171 3258 1670 
+z
+M 2426 1670 
+C 2426 1126 2362 710 1862 710 
+C 1363 710 1299 1126 1299 1670 
+C 1299 2214 1363 2624 1862 2624 
+C 2362 2624 2426 2214 2426 1670 
+z
+" transform="scale(0.015625)"/>
+       <path id="DINPro-Bold-63" d="M 2893 416 
+L 2330 973 
+C 2157 787 2010 710 1792 710 
+C 1594 710 1440 781 1318 928 
+C 1190 1088 1133 1318 1133 1670 
+C 1133 2022 1190 2246 1318 2406 
+C 1440 2554 1594 2624 1792 2624 
+C 2010 2624 2157 2547 2330 2362 
+L 2893 2925 
+C 2598 3232 2253 3373 1792 3373 
+C 1126 3373 301 3021 301 1670 
+C 301 320 1126 -38 1792 -38 
+C 2253 -38 2598 109 2893 416 
+z
+" transform="scale(0.015625)"/>
+       <path id="DINPro-Bold-69" d="M 1299 0 
+L 1299 3334 
+L 467 3334 
+L 467 0 
+L 1299 0 
+z
+M 1306 3904 
+L 1306 4582 
+L 454 4582 
+L 454 3904 
+L 1306 3904 
+z
+" transform="scale(0.015625)"/>
+       <path id="DINPro-Bold-6f" d="M 3149 1670 
+C 3149 2272 3072 2650 2771 2963 
+C 2566 3181 2227 3373 1734 3373 
+C 1242 3373 909 3181 704 2963 
+C 403 2650 326 2272 326 1670 
+C 326 1062 403 685 704 371 
+C 909 154 1242 -38 1734 -38 
+C 2227 -38 2566 154 2771 371 
+C 3072 685 3149 1062 3149 1670 
+z
+M 2317 1670 
+C 2317 1325 2298 1030 2125 858 
+C 2029 762 1901 710 1734 710 
+C 1568 710 1446 762 1350 858 
+C 1178 1030 1158 1325 1158 1670 
+C 1158 2016 1178 2304 1350 2477 
+C 1446 2573 1568 2624 1734 2624 
+C 1901 2624 2029 2573 2125 2477 
+C 2298 2304 2317 2016 2317 1670 
+z
+" transform="scale(0.015625)"/>
+       <path id="DINPro-Bold-6e" d="M 3238 0 
+L 3238 2131 
+C 3238 2496 3168 2810 2899 3078 
+C 2714 3264 2445 3373 2112 3373 
+C 1805 3373 1498 3258 1280 3027 
+L 1280 3334 
+L 467 3334 
+L 467 0 
+L 1299 0 
+L 1299 2016 
+C 1299 2470 1594 2624 1856 2624 
+C 2118 2624 2406 2470 2406 2016 
+L 2406 0 
+L 3238 0 
+z
+" transform="scale(0.015625)"/>
+       <path id="DINPro-Bold-65" d="M 3206 1408 
+L 3206 1779 
+C 3206 2694 2682 3373 1754 3373 
+C 890 3373 301 2758 301 1670 
+C 301 320 1056 -38 1843 -38 
+C 2445 -38 2771 147 3110 486 
+L 2605 979 
+C 2394 768 2214 666 1850 666 
+C 1382 666 1120 979 1120 1408 
+L 3206 1408 
+z
+M 2387 1978 
+L 1120 1978 
+C 1126 2125 1146 2214 1197 2336 
+C 1286 2534 1472 2682 1754 2682 
+C 2035 2682 2221 2534 2310 2336 
+C 2362 2214 2381 2125 2387 1978 
+z
+" transform="scale(0.015625)"/>
+       <path id="DINPro-Bold-73" d="M 2976 1050 
+C 2976 1613 2643 1965 1984 2029 
+L 1459 2080 
+C 1165 2106 1114 2246 1114 2368 
+C 1114 2534 1254 2688 1587 2688 
+C 1875 2688 2170 2637 2362 2464 
+L 2874 2982 
+C 2554 3283 2118 3373 1600 3373 
+C 922 3373 314 3002 314 2310 
+C 314 1696 685 1434 1286 1376 
+L 1811 1325 
+C 2074 1299 2163 1184 2163 1018 
+C 2163 768 1862 672 1574 672 
+C 1318 672 960 710 685 986 
+L 141 442 
+C 563 19 1037 -38 1562 -38 
+C 2349 -38 2976 314 2976 1050 
+z
+" transform="scale(0.015625)"/>
+      </defs>
+      <use xlink:href="#DINPro-Bold-4f"/>
+      <use xlink:href="#DINPro-Bold-70" x="64.399994"/>
+      <use xlink:href="#DINPro-Bold-63" x="120.399979"/>
+      <use xlink:href="#DINPro-Bold-69" x="168.399963"/>
+      <use xlink:href="#DINPro-Bold-6f" x="195.899948"/>
+      <use xlink:href="#DINPro-Bold-6e" x="250.199936"/>
+      <use xlink:href="#DINPro-Bold-65" x="307.499924"/>
+      <use xlink:href="#DINPro-Bold-73" x="362.299911"/>
+     </g>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="line2d_5">
+      <defs>
+       <path id="mb6513246bb" d="M 0 0 
+L -3.5 0 
+" style="stroke: #5f5f5f; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#mb6513246bb" x="66.5" y="355.51125" style="fill: #5f5f5f; stroke: #5f5f5f; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_6">
+      <!-- 0 € -->
+      <g style="fill: #5f5f5f" transform="translate(44.909375 359.071406) scale(0.1 -0.1)">
+       <defs>
+        <path id="DINPro-Bold-30" d="M 3123 1318 
+L 3123 3238 
+C 3123 4109 2483 4595 1741 4595 
+C 998 4595 352 4109 352 3238 
+L 352 1318 
+C 352 448 998 -38 1741 -38 
+C 2483 -38 3123 448 3123 1318 
+z
+M 2291 1325 
+C 2291 941 2067 710 1741 710 
+C 1414 710 1184 941 1184 1325 
+L 1184 3226 
+C 1184 3610 1414 3846 1741 3846 
+C 2067 3846 2291 3610 2291 3226 
+L 2291 1325 
+z
+" transform="scale(0.015625)"/>
+        <path id="DINPro-Bold-20ac" d="M 4045 1402 
+L 3149 1402 
+C 3059 1037 2816 755 2374 755 
+C 2131 755 1939 851 1811 992 
+C 1702 1114 1645 1242 1619 1517 
+L 2573 1517 
+L 2573 2048 
+L 1587 2048 
+L 1587 2528 
+L 2573 2528 
+L 2573 3059 
+L 1626 3059 
+C 1651 3315 1702 3443 1811 3565 
+C 1939 3706 2131 3802 2374 3802 
+C 2816 3802 3053 3520 3142 3155 
+L 4045 3155 
+C 3885 4109 3226 4595 2374 4595 
+C 1875 4595 1472 4422 1146 4096 
+C 858 3808 755 3482 717 3059 
+L 250 3059 
+L 250 2528 
+L 691 2528 
+L 691 2048 
+L 250 2048 
+L 250 1517 
+L 717 1517 
+C 755 1088 851 755 1146 461 
+C 1472 134 1875 -38 2374 -38 
+C 3219 -38 3885 448 4045 1402 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#DINPro-Bold-30"/>
+       <use xlink:href="#DINPro-Bold-20" x="54.299988"/>
+       <use xlink:href="#DINPro-Bold-20ac" x="77.499985"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="line2d_6">
+      <g>
+       <use xlink:href="#mb6513246bb" x="66.5" y="317.796964" style="fill: #5f5f5f; stroke: #5f5f5f; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_7">
+      <!-- 5,000 € -->
+      <g style="fill: #5f5f5f" transform="translate(25.829687 321.357121) scale(0.1 -0.1)">
+       <defs>
+        <path id="DINPro-Bold-2c" d="M 1350 -352 
+L 1350 909 
+L 435 909 
+L 435 -1056 
+L 1350 -352 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#DINPro-Bold-35"/>
+       <use xlink:href="#DINPro-Bold-2c" x="54.299988"/>
+       <use xlink:href="#DINPro-Bold-30" x="82.199982"/>
+       <use xlink:href="#DINPro-Bold-30" x="136.499969"/>
+       <use xlink:href="#DINPro-Bold-30" x="190.799957"/>
+       <use xlink:href="#DINPro-Bold-20" x="245.099945"/>
+       <use xlink:href="#DINPro-Bold-20ac" x="268.299942"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_3">
+     <g id="line2d_7">
+      <g>
+       <use xlink:href="#mb6513246bb" x="66.5" y="280.082679" style="fill: #5f5f5f; stroke: #5f5f5f; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_8">
+      <!-- 10,000 € -->
+      <g style="fill: #5f5f5f" transform="translate(20.4 283.642835) scale(0.1 -0.1)">
+       <use xlink:href="#DINPro-Bold-31"/>
+       <use xlink:href="#DINPro-Bold-30" x="54.299988"/>
+       <use xlink:href="#DINPro-Bold-2c" x="108.599976"/>
+       <use xlink:href="#DINPro-Bold-30" x="136.499969"/>
+       <use xlink:href="#DINPro-Bold-30" x="190.799957"/>
+       <use xlink:href="#DINPro-Bold-30" x="245.099945"/>
+       <use xlink:href="#DINPro-Bold-20" x="299.399933"/>
+       <use xlink:href="#DINPro-Bold-20ac" x="322.59993"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_4">
+     <g id="line2d_8">
+      <g>
+       <use xlink:href="#mb6513246bb" x="66.5" y="242.368393" style="fill: #5f5f5f; stroke: #5f5f5f; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_9">
+      <!-- 15,000 € -->
+      <g style="fill: #5f5f5f" transform="translate(20.4 245.928549) scale(0.1 -0.1)">
+       <use xlink:href="#DINPro-Bold-31"/>
+       <use xlink:href="#DINPro-Bold-35" x="54.299988"/>
+       <use xlink:href="#DINPro-Bold-2c" x="108.599976"/>
+       <use xlink:href="#DINPro-Bold-30" x="136.499969"/>
+       <use xlink:href="#DINPro-Bold-30" x="190.799957"/>
+       <use xlink:href="#DINPro-Bold-30" x="245.099945"/>
+       <use xlink:href="#DINPro-Bold-20" x="299.399933"/>
+       <use xlink:href="#DINPro-Bold-20ac" x="322.59993"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_5">
+     <g id="line2d_9">
+      <g>
+       <use xlink:href="#mb6513246bb" x="66.5" y="204.654107" style="fill: #5f5f5f; stroke: #5f5f5f; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_10">
+      <!-- 20,000 € -->
+      <g style="fill: #5f5f5f" transform="translate(20.4 208.214263) scale(0.1 -0.1)">
+       <use xlink:href="#DINPro-Bold-32"/>
+       <use xlink:href="#DINPro-Bold-30" x="54.299988"/>
+       <use xlink:href="#DINPro-Bold-2c" x="108.599976"/>
+       <use xlink:href="#DINPro-Bold-30" x="136.499969"/>
+       <use xlink:href="#DINPro-Bold-30" x="190.799957"/>
+       <use xlink:href="#DINPro-Bold-30" x="245.099945"/>
+       <use xlink:href="#DINPro-Bold-20" x="299.399933"/>
+       <use xlink:href="#DINPro-Bold-20ac" x="322.59993"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_6">
+     <g id="line2d_10">
+      <g>
+       <use xlink:href="#mb6513246bb" x="66.5" y="166.939821" style="fill: #5f5f5f; stroke: #5f5f5f; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_11">
+      <!-- 25,000 € -->
+      <g style="fill: #5f5f5f" transform="translate(20.4 170.499978) scale(0.1 -0.1)">
+       <use xlink:href="#DINPro-Bold-32"/>
+       <use xlink:href="#DINPro-Bold-35" x="54.299988"/>
+       <use xlink:href="#DINPro-Bold-2c" x="108.599976"/>
+       <use xlink:href="#DINPro-Bold-30" x="136.499969"/>
+       <use xlink:href="#DINPro-Bold-30" x="190.799957"/>
+       <use xlink:href="#DINPro-Bold-30" x="245.099945"/>
+       <use xlink:href="#DINPro-Bold-20" x="299.399933"/>
+       <use xlink:href="#DINPro-Bold-20ac" x="322.59993"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_7">
+     <g id="line2d_11">
+      <g>
+       <use xlink:href="#mb6513246bb" x="66.5" y="129.225536" style="fill: #5f5f5f; stroke: #5f5f5f; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_12">
+      <!-- 30,000 € -->
+      <g style="fill: #5f5f5f" transform="translate(20.4 132.785692) scale(0.1 -0.1)">
+       <defs>
+        <path id="DINPro-Bold-33" d="M 3168 1318 
+C 3168 1869 2906 2182 2579 2355 
+C 2880 2515 3104 2797 3104 3290 
+C 3104 4058 2522 4595 1715 4595 
+C 947 4595 339 4109 320 3296 
+L 1152 3296 
+C 1171 3642 1402 3846 1715 3846 
+C 2016 3846 2272 3648 2272 3264 
+C 2272 2944 2099 2694 1696 2694 
+L 1574 2694 
+L 1574 1971 
+L 1696 1971 
+C 2106 1971 2336 1722 2336 1344 
+C 2336 934 2080 710 1722 710 
+C 1395 710 1114 896 1101 1306 
+L 269 1306 
+C 282 352 979 -38 1722 -38 
+C 2502 -38 3168 410 3168 1318 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#DINPro-Bold-33"/>
+       <use xlink:href="#DINPro-Bold-30" x="54.299988"/>
+       <use xlink:href="#DINPro-Bold-2c" x="108.599976"/>
+       <use xlink:href="#DINPro-Bold-30" x="136.499969"/>
+       <use xlink:href="#DINPro-Bold-30" x="190.799957"/>
+       <use xlink:href="#DINPro-Bold-30" x="245.099945"/>
+       <use xlink:href="#DINPro-Bold-20" x="299.399933"/>
+       <use xlink:href="#DINPro-Bold-20ac" x="322.59993"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_8">
+     <g id="line2d_12">
+      <g>
+       <use xlink:href="#mb6513246bb" x="66.5" y="91.51125" style="fill: #5f5f5f; stroke: #5f5f5f; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_13">
+      <!-- 35,000 € -->
+      <g style="fill: #5f5f5f" transform="translate(20.4 95.071406) scale(0.1 -0.1)">
+       <use xlink:href="#DINPro-Bold-33"/>
+       <use xlink:href="#DINPro-Bold-35" x="54.299988"/>
+       <use xlink:href="#DINPro-Bold-2c" x="108.599976"/>
+       <use xlink:href="#DINPro-Bold-30" x="136.499969"/>
+       <use xlink:href="#DINPro-Bold-30" x="190.799957"/>
+       <use xlink:href="#DINPro-Bold-30" x="245.099945"/>
+       <use xlink:href="#DINPro-Bold-20" x="299.399933"/>
+       <use xlink:href="#DINPro-Bold-20ac" x="322.59993"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_9">
+     <g id="line2d_13">
+      <g>
+       <use xlink:href="#mb6513246bb" x="66.5" y="53.796964" style="fill: #5f5f5f; stroke: #5f5f5f; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_14">
+      <!-- 40,000 € -->
+      <g style="fill: #5f5f5f" transform="translate(20.4 57.357121) scale(0.1 -0.1)">
+       <defs>
+        <path id="DINPro-Bold-34" d="M 3277 646 
+L 3277 1434 
+L 2861 1434 
+L 2861 2285 
+L 2061 2285 
+L 2061 1434 
+L 1107 1434 
+L 2669 4557 
+L 1760 4557 
+L 198 1434 
+L 198 646 
+L 2061 646 
+L 2061 0 
+L 2861 0 
+L 2861 646 
+L 3277 646 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#DINPro-Bold-34"/>
+       <use xlink:href="#DINPro-Bold-30" x="54.299988"/>
+       <use xlink:href="#DINPro-Bold-2c" x="108.599976"/>
+       <use xlink:href="#DINPro-Bold-30" x="136.499969"/>
+       <use xlink:href="#DINPro-Bold-30" x="190.799957"/>
+       <use xlink:href="#DINPro-Bold-30" x="245.099945"/>
+       <use xlink:href="#DINPro-Bold-20" x="299.399933"/>
+       <use xlink:href="#DINPro-Bold-20ac" x="322.59993"/>
+      </g>
+     </g>
+    </g>
+    <g id="text_15">
+     <!-- Coste Anual($) | 50 usuarios -->
+     <g style="fill: #5f5f5f" transform="translate(14.490625 253.274844) rotate(-90) scale(0.1 -0.1)">
+      <defs>
+       <path id="DINPro-Bold-74" d="M 1965 0 
+L 1965 704 
+L 1664 704 
+C 1466 704 1376 813 1376 1005 
+L 1376 2605 
+L 1965 2605 
+L 1965 3238 
+L 1376 3238 
+L 1376 4224 
+L 544 4224 
+L 544 3238 
+L 192 3238 
+L 192 2605 
+L 544 2605 
+L 544 954 
+C 544 480 832 0 1510 0 
+L 1965 0 
+z
+" transform="scale(0.015625)"/>
+       <path id="DINPro-Bold-75" d="M 3200 0 
+L 3200 3334 
+L 2368 3334 
+L 2368 1318 
+C 2368 864 2074 710 1811 710 
+C 1549 710 1261 864 1261 1318 
+L 1261 3334 
+L 429 3334 
+L 429 1203 
+C 429 838 499 525 768 256 
+C 954 70 1222 -38 1555 -38 
+C 1862 -38 2170 77 2387 307 
+L 2387 0 
+L 3200 0 
+z
+" transform="scale(0.015625)"/>
+       <path id="DINPro-Bold-61" d="M 2989 0 
+L 2989 2195 
+C 2989 2976 2502 3373 1568 3373 
+C 1011 3373 691 3270 365 2912 
+L 896 2394 
+C 1069 2592 1216 2669 1536 2669 
+C 1978 2669 2157 2509 2157 2144 
+L 2157 1978 
+L 1370 1978 
+C 595 1978 230 1542 230 1011 
+C 230 717 326 448 506 262 
+C 704 64 979 -32 1357 -32 
+C 1741 -32 1952 64 2176 288 
+L 2176 0 
+L 2989 0 
+z
+M 2157 1229 
+C 2157 1024 2125 890 2035 806 
+C 1888 666 1741 646 1510 646 
+C 1184 646 1030 800 1030 1030 
+C 1030 1267 1197 1408 1498 1408 
+L 2157 1408 
+L 2157 1229 
+z
+" transform="scale(0.015625)"/>
+       <path id="DINPro-Bold-6c" d="M 1882 0 
+L 1882 704 
+L 1562 704 
+C 1350 704 1267 806 1267 1005 
+L 1267 4557 
+L 435 4557 
+L 435 954 
+C 435 480 723 0 1408 0 
+L 1882 0 
+z
+" transform="scale(0.015625)"/>
+       <path id="DINPro-Bold-24" d="M 3654 1344 
+C 3654 1747 3546 2074 3302 2304 
+C 3110 2483 2848 2598 2432 2662 
+L 2189 2701 
+L 2189 3814 
+C 2451 3795 2765 3712 2976 3507 
+L 3539 4064 
+C 3194 4397 2797 4557 2278 4589 
+L 2278 5158 
+L 1632 5158 
+L 1632 4582 
+C 800 4493 301 3949 301 3213 
+C 301 2829 410 2541 627 2323 
+C 819 2131 1126 1990 1510 1939 
+L 1715 1914 
+L 1715 755 
+C 1331 768 966 870 698 1139 
+L 122 563 
+C 538 141 1018 -19 1632 -38 
+L 1632 -730 
+L 2278 -730 
+L 2278 -13 
+C 3078 83 3654 563 3654 1344 
+z
+M 2784 1318 
+C 2784 1005 2573 813 2189 768 
+L 2189 1869 
+C 2355 1843 2515 1824 2643 1702 
+C 2739 1613 2784 1478 2784 1318 
+z
+M 1715 2739 
+C 1536 2765 1395 2822 1293 2918 
+C 1197 3008 1158 3130 1158 3245 
+C 1158 3526 1344 3757 1715 3808 
+L 1715 2739 
+z
+" transform="scale(0.015625)"/>
+       <path id="DINPro-Bold-7c" d="M 1536 -474 
+L 1536 5030 
+L 704 5030 
+L 704 -474 
+L 1536 -474 
+z
+" transform="scale(0.015625)"/>
+       <path id="DINPro-Bold-72" d="M 2906 3059 
+C 2675 3290 2445 3373 2118 3373 
+C 1760 3373 1440 3206 1280 3014 
+L 1280 3334 
+L 467 3334 
+L 467 0 
+L 1299 0 
+L 1299 2010 
+C 1299 2432 1581 2624 1837 2624 
+C 2042 2624 2150 2554 2278 2426 
+L 2906 3059 
+z
+" transform="scale(0.015625)"/>
+      </defs>
+      <use xlink:href="#DINPro-Bold-43"/>
+      <use xlink:href="#DINPro-Bold-6f" x="61.999985"/>
+      <use xlink:href="#DINPro-Bold-73" x="116.299973"/>
+      <use xlink:href="#DINPro-Bold-74" x="166.399963"/>
+      <use xlink:href="#DINPro-Bold-65" x="201.59996"/>
+      <use xlink:href="#DINPro-Bold-20" x="256.399948"/>
+      <use xlink:href="#DINPro-Bold-41" x="279.599945"/>
+      <use xlink:href="#DINPro-Bold-6e" x="343.399933"/>
+      <use xlink:href="#DINPro-Bold-75" x="400.699921"/>
+      <use xlink:href="#DINPro-Bold-61" x="457.999908"/>
+      <use xlink:href="#DINPro-Bold-6c" x="511.399902"/>
+      <use xlink:href="#DINPro-Bold-28" x="543.899887"/>
+      <use xlink:href="#DINPro-Bold-24" x="577.499878"/>
+      <use xlink:href="#DINPro-Bold-29" x="639.399872"/>
+      <use xlink:href="#DINPro-Bold-20" x="672.999863"/>
+      <use xlink:href="#DINPro-Bold-7c" x="696.19986"/>
+      <use xlink:href="#DINPro-Bold-20" x="731.199844"/>
+      <use xlink:href="#DINPro-Bold-35" x="754.399841"/>
+      <use xlink:href="#DINPro-Bold-30" x="808.699829"/>
+      <use xlink:href="#DINPro-Bold-20" x="862.999817"/>
+      <use xlink:href="#DINPro-Bold-75" x="886.199814"/>
+      <use xlink:href="#DINPro-Bold-73" x="943.499802"/>
+      <use xlink:href="#DINPro-Bold-75" x="993.599792"/>
+      <use xlink:href="#DINPro-Bold-61" x="1050.89978"/>
+      <use xlink:href="#DINPro-Bold-72" x="1104.299774"/>
+      <use xlink:href="#DINPro-Bold-69" x="1149.799759"/>
+      <use xlink:href="#DINPro-Bold-6f" x="1177.299744"/>
+      <use xlink:href="#DINPro-Bold-73" x="1231.599731"/>
+     </g>
+    </g>
+   </g>
+   <g id="patch_7">
+    <path d="M 66.5 355.51125 
+L 66.5 22.87125 
+" style="fill: none; stroke: #9f9f9f; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 624.5 355.51125 
+L 624.5 22.87125 
+" style="fill: none; stroke: #9f9f9f; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 66.5 355.51125 
+L 624.5 355.51125 
+" style="fill: none; stroke: #9f9f9f; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 66.5 22.87125 
+L 624.5 22.87125 
+" style="fill: none; stroke: #9f9f9f; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_16">
+    <!-- 24.060 € -->
+    <g style="fill: #c6c8cb" transform="translate(121.765141 187.578857) scale(0.12 -0.12)">
+     <defs>
+      <path id="DINPro-Bold-2e" d="M 1389 0 
+L 1389 947 
+L 435 947 
+L 435 0 
+L 1389 0 
+z
+" transform="scale(0.015625)"/>
+      <path id="DINPro-Bold-36" d="M 3149 1382 
+C 3149 2227 2566 2733 1952 2733 
+C 1843 2733 1722 2720 1613 2675 
+L 2560 4557 
+L 1651 4557 
+L 691 2586 
+C 486 2170 307 1786 307 1370 
+C 307 467 922 -38 1728 -38 
+C 2534 -38 3149 486 3149 1382 
+z
+M 2317 1376 
+C 2317 954 2067 710 1728 710 
+C 1389 710 1139 954 1139 1376 
+C 1139 1798 1389 2042 1728 2042 
+C 2080 2042 2317 1779 2317 1376 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#DINPro-Bold-32"/>
+     <use xlink:href="#DINPro-Bold-34" x="54.299988"/>
+     <use xlink:href="#DINPro-Bold-2e" x="108.599976"/>
+     <use xlink:href="#DINPro-Bold-30" x="137.09996"/>
+     <use xlink:href="#DINPro-Bold-36" x="191.399948"/>
+     <use xlink:href="#DINPro-Bold-30" x="245.699936"/>
+     <use xlink:href="#DINPro-Bold-20" x="299.999924"/>
+     <use xlink:href="#DINPro-Bold-20ac" x="323.199921"/>
+    </g>
+   </g>
+   <g id="text_17">
+    <!-- 15.600 € -->
+    <g style="fill: #c6c8cb" transform="translate(255.257964 251.391429) scale(0.12 -0.12)">
+     <use xlink:href="#DINPro-Bold-31"/>
+     <use xlink:href="#DINPro-Bold-35" x="54.299988"/>
+     <use xlink:href="#DINPro-Bold-2e" x="108.599976"/>
+     <use xlink:href="#DINPro-Bold-36" x="137.09996"/>
+     <use xlink:href="#DINPro-Bold-30" x="191.399948"/>
+     <use xlink:href="#DINPro-Bold-30" x="245.699936"/>
+     <use xlink:href="#DINPro-Bold-20" x="299.999924"/>
+     <use xlink:href="#DINPro-Bold-20ac" x="323.199921"/>
+    </g>
+   </g>
+   <g id="text_18">
+    <!-- 42.000 € -->
+    <g style="fill: #c6c8cb" transform="translate(388.750786 52.26) scale(0.12 -0.12)">
+     <use xlink:href="#DINPro-Bold-34"/>
+     <use xlink:href="#DINPro-Bold-32" x="54.299988"/>
+     <use xlink:href="#DINPro-Bold-2e" x="108.599976"/>
+     <use xlink:href="#DINPro-Bold-30" x="137.09996"/>
+     <use xlink:href="#DINPro-Bold-30" x="191.399948"/>
+     <use xlink:href="#DINPro-Bold-30" x="245.699936"/>
+     <use xlink:href="#DINPro-Bold-20" x="299.999924"/>
+     <use xlink:href="#DINPro-Bold-20ac" x="323.199921"/>
+    </g>
+   </g>
+   <g id="text_19">
+    <!-- 11.000 € -->
+    <g style="fill: #c6c8cb" transform="translate(522.243609 286.088571) scale(0.12 -0.12)">
+     <use xlink:href="#DINPro-Bold-31"/>
+     <use xlink:href="#DINPro-Bold-31" x="54.299988"/>
+     <use xlink:href="#DINPro-Bold-2e" x="108.599976"/>
+     <use xlink:href="#DINPro-Bold-30" x="137.09996"/>
+     <use xlink:href="#DINPro-Bold-30" x="191.399948"/>
+     <use xlink:href="#DINPro-Bold-30" x="245.699936"/>
+     <use xlink:href="#DINPro-Bold-20" x="299.999924"/>
+     <use xlink:href="#DINPro-Bold-20ac" x="323.199921"/>
+    </g>
+   </g>
+   <g id="text_20">
+    <!-- Opciones al impacto de la subida de costes de Airtable (50 Usuarios) -->
+    <g style="fill: #5f5f5f" transform="translate(160.912813 16.87125) scale(0.12 -0.12)">
+     <defs>
+      <path id="DINPro-Bold-6d" d="M 5178 0 
+L 5178 2131 
+C 5178 2496 5082 2810 4813 3078 
+C 4627 3264 4326 3373 3994 3373 
+C 3578 3373 3277 3245 2995 2950 
+C 2784 3238 2483 3373 2112 3373 
+C 1805 3373 1498 3251 1280 3027 
+L 1280 3334 
+L 467 3334 
+L 467 0 
+L 1299 0 
+L 1299 2016 
+C 1299 2470 1594 2624 1856 2624 
+C 2118 2624 2406 2470 2406 2016 
+L 2406 0 
+L 3238 0 
+L 3238 2035 
+C 3238 2470 3539 2624 3795 2624 
+C 4058 2624 4346 2470 4346 2016 
+L 4346 0 
+L 5178 0 
+z
+" transform="scale(0.015625)"/>
+      <path id="DINPro-Bold-64" d="M 3123 0 
+L 3123 4557 
+L 2291 4557 
+L 2291 3040 
+C 2074 3283 1818 3373 1478 3373 
+C 1152 3373 851 3258 666 3072 
+C 333 2739 326 2170 326 1670 
+C 326 1171 333 595 666 262 
+C 851 77 1158 -38 1485 -38 
+C 1837 -38 2080 58 2310 314 
+L 2310 0 
+L 3123 0 
+z
+M 2291 1670 
+C 2291 1126 2221 710 1722 710 
+C 1222 710 1158 1126 1158 1670 
+C 1158 2214 1222 2624 1722 2624 
+C 2221 2624 2291 2214 2291 1670 
+z
+" transform="scale(0.015625)"/>
+      <path id="DINPro-Bold-62" d="M 3258 1670 
+C 3258 2170 3251 2739 2918 3072 
+C 2733 3258 2432 3373 2106 3373 
+C 1766 3373 1517 3283 1299 3040 
+L 1299 4557 
+L 467 4557 
+L 467 0 
+L 1274 0 
+L 1274 314 
+C 1504 58 1754 -38 2106 -38 
+C 2432 -38 2733 77 2918 262 
+C 3251 595 3258 1171 3258 1670 
+z
+M 2426 1670 
+C 2426 1126 2362 710 1862 710 
+C 1363 710 1299 1126 1299 1670 
+C 1299 2214 1363 2624 1862 2624 
+C 2362 2624 2426 2214 2426 1670 
+z
+" transform="scale(0.015625)"/>
+      <path id="DINPro-Bold-55" d="M 3814 1562 
+L 3814 4557 
+L 2931 4557 
+L 2931 1594 
+C 2931 1069 2618 755 2138 755 
+C 1658 755 1350 1069 1350 1594 
+L 1350 4557 
+L 461 4557 
+L 461 1562 
+C 461 595 1203 -38 2138 -38 
+C 3072 -38 3814 595 3814 1562 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#DINPro-Bold-4f"/>
+     <use xlink:href="#DINPro-Bold-70" x="64.399994"/>
+     <use xlink:href="#DINPro-Bold-63" x="120.399979"/>
+     <use xlink:href="#DINPro-Bold-69" x="168.399963"/>
+     <use xlink:href="#DINPro-Bold-6f" x="195.899948"/>
+     <use xlink:href="#DINPro-Bold-6e" x="250.199936"/>
+     <use xlink:href="#DINPro-Bold-65" x="307.499924"/>
+     <use xlink:href="#DINPro-Bold-73" x="362.299911"/>
+     <use xlink:href="#DINPro-Bold-20" x="412.399902"/>
+     <use xlink:href="#DINPro-Bold-61" x="435.599899"/>
+     <use xlink:href="#DINPro-Bold-6c" x="488.999893"/>
+     <use xlink:href="#DINPro-Bold-20" x="521.499878"/>
+     <use xlink:href="#DINPro-Bold-69" x="544.699875"/>
+     <use xlink:href="#DINPro-Bold-6d" x="572.19986"/>
+     <use xlink:href="#DINPro-Bold-70" x="659.79985"/>
+     <use xlink:href="#DINPro-Bold-61" x="715.799835"/>
+     <use xlink:href="#DINPro-Bold-63" x="769.199829"/>
+     <use xlink:href="#DINPro-Bold-74" x="817.199814"/>
+     <use xlink:href="#DINPro-Bold-6f" x="852.399811"/>
+     <use xlink:href="#DINPro-Bold-20" x="906.699799"/>
+     <use xlink:href="#DINPro-Bold-64" x="929.899796"/>
+     <use xlink:href="#DINPro-Bold-65" x="985.999786"/>
+     <use xlink:href="#DINPro-Bold-20" x="1040.799774"/>
+     <use xlink:href="#DINPro-Bold-6c" x="1063.999771"/>
+     <use xlink:href="#DINPro-Bold-61" x="1096.499756"/>
+     <use xlink:href="#DINPro-Bold-20" x="1149.89975"/>
+     <use xlink:href="#DINPro-Bold-73" x="1173.099747"/>
+     <use xlink:href="#DINPro-Bold-75" x="1223.199738"/>
+     <use xlink:href="#DINPro-Bold-62" x="1280.499725"/>
+     <use xlink:href="#DINPro-Bold-69" x="1336.49971"/>
+     <use xlink:href="#DINPro-Bold-64" x="1363.999695"/>
+     <use xlink:href="#DINPro-Bold-61" x="1420.099686"/>
+     <use xlink:href="#DINPro-Bold-20" x="1473.49968"/>
+     <use xlink:href="#DINPro-Bold-64" x="1496.699677"/>
+     <use xlink:href="#DINPro-Bold-65" x="1552.799667"/>
+     <use xlink:href="#DINPro-Bold-20" x="1607.599655"/>
+     <use xlink:href="#DINPro-Bold-63" x="1630.799652"/>
+     <use xlink:href="#DINPro-Bold-6f" x="1678.799637"/>
+     <use xlink:href="#DINPro-Bold-73" x="1733.099625"/>
+     <use xlink:href="#DINPro-Bold-74" x="1783.199615"/>
+     <use xlink:href="#DINPro-Bold-65" x="1818.399612"/>
+     <use xlink:href="#DINPro-Bold-73" x="1873.1996"/>
+     <use xlink:href="#DINPro-Bold-20" x="1923.299591"/>
+     <use xlink:href="#DINPro-Bold-64" x="1946.499588"/>
+     <use xlink:href="#DINPro-Bold-65" x="2002.599579"/>
+     <use xlink:href="#DINPro-Bold-20" x="2057.399567"/>
+     <use xlink:href="#DINPro-Bold-41" x="2080.599564"/>
+     <use xlink:href="#DINPro-Bold-69" x="2144.399551"/>
+     <use xlink:href="#DINPro-Bold-72" x="2171.899536"/>
+     <use xlink:href="#DINPro-Bold-74" x="2217.399521"/>
+     <use xlink:href="#DINPro-Bold-61" x="2252.599518"/>
+     <use xlink:href="#DINPro-Bold-62" x="2305.999512"/>
+     <use xlink:href="#DINPro-Bold-6c" x="2361.999496"/>
+     <use xlink:href="#DINPro-Bold-65" x="2394.499481"/>
+     <use xlink:href="#DINPro-Bold-20" x="2449.299469"/>
+     <use xlink:href="#DINPro-Bold-28" x="2472.499466"/>
+     <use xlink:href="#DINPro-Bold-35" x="2506.099457"/>
+     <use xlink:href="#DINPro-Bold-30" x="2560.399445"/>
+     <use xlink:href="#DINPro-Bold-20" x="2614.699432"/>
+     <use xlink:href="#DINPro-Bold-55" x="2637.899429"/>
+     <use xlink:href="#DINPro-Bold-73" x="2704.699417"/>
+     <use xlink:href="#DINPro-Bold-75" x="2754.799408"/>
+     <use xlink:href="#DINPro-Bold-61" x="2812.099396"/>
+     <use xlink:href="#DINPro-Bold-72" x="2865.49939"/>
+     <use xlink:href="#DINPro-Bold-69" x="2910.999374"/>
+     <use xlink:href="#DINPro-Bold-6f" x="2938.499359"/>
+     <use xlink:href="#DINPro-Bold-73" x="2992.799347"/>
+     <use xlink:href="#DINPro-Bold-29" x="3042.899338"/>
+    </g>
+   </g>
+  </g>
+  <g id="text_21">
+   <!-- *   Este es el modelo ideal, depende de si Airtable nos lo permite. -->
+   <g style="fill: #5f5f5f" transform="translate(204.00875 409.906687) scale(0.09 -0.09)">
+    <use xlink:href="#DINPro-Bold-2a"/>
+    <use xlink:href="#DINPro-Bold-20" x="49.399994"/>
+    <use xlink:href="#DINPro-Bold-20" x="72.599991"/>
+    <use xlink:href="#DINPro-Bold-20" x="95.799988"/>
+    <use xlink:href="#DINPro-Bold-45" x="118.999985"/>
+    <use xlink:href="#DINPro-Bold-73" x="179.499969"/>
+    <use xlink:href="#DINPro-Bold-74" x="229.59996"/>
+    <use xlink:href="#DINPro-Bold-65" x="264.799957"/>
+    <use xlink:href="#DINPro-Bold-20" x="319.599945"/>
+    <use xlink:href="#DINPro-Bold-65" x="342.799942"/>
+    <use xlink:href="#DINPro-Bold-73" x="397.59993"/>
+    <use xlink:href="#DINPro-Bold-20" x="447.699921"/>
+    <use xlink:href="#DINPro-Bold-65" x="470.899918"/>
+    <use xlink:href="#DINPro-Bold-6c" x="525.699905"/>
+    <use xlink:href="#DINPro-Bold-20" x="558.19989"/>
+    <use xlink:href="#DINPro-Bold-6d" x="581.399887"/>
+    <use xlink:href="#DINPro-Bold-6f" x="668.999878"/>
+    <use xlink:href="#DINPro-Bold-64" x="723.299866"/>
+    <use xlink:href="#DINPro-Bold-65" x="779.399857"/>
+    <use xlink:href="#DINPro-Bold-6c" x="834.199844"/>
+    <use xlink:href="#DINPro-Bold-6f" x="866.699829"/>
+    <use xlink:href="#DINPro-Bold-20" x="920.999817"/>
+    <use xlink:href="#DINPro-Bold-69" x="944.199814"/>
+    <use xlink:href="#DINPro-Bold-64" x="971.699799"/>
+    <use xlink:href="#DINPro-Bold-65" x="1027.799789"/>
+    <use xlink:href="#DINPro-Bold-61" x="1082.599777"/>
+    <use xlink:href="#DINPro-Bold-6c" x="1135.999771"/>
+    <use xlink:href="#DINPro-Bold-2c" x="1168.499756"/>
+    <use xlink:href="#DINPro-Bold-20" x="1196.39975"/>
+    <use xlink:href="#DINPro-Bold-64" x="1219.599747"/>
+    <use xlink:href="#DINPro-Bold-65" x="1275.699738"/>
+    <use xlink:href="#DINPro-Bold-70" x="1330.499725"/>
+    <use xlink:href="#DINPro-Bold-65" x="1386.49971"/>
+    <use xlink:href="#DINPro-Bold-6e" x="1441.299698"/>
+    <use xlink:href="#DINPro-Bold-64" x="1498.599686"/>
+    <use xlink:href="#DINPro-Bold-65" x="1554.699677"/>
+    <use xlink:href="#DINPro-Bold-20" x="1609.499664"/>
+    <use xlink:href="#DINPro-Bold-64" x="1632.699661"/>
+    <use xlink:href="#DINPro-Bold-65" x="1688.799652"/>
+    <use xlink:href="#DINPro-Bold-20" x="1743.59964"/>
+    <use xlink:href="#DINPro-Bold-73" x="1766.799637"/>
+    <use xlink:href="#DINPro-Bold-69" x="1816.899628"/>
+    <use xlink:href="#DINPro-Bold-20" x="1844.399612"/>
+    <use xlink:href="#DINPro-Bold-41" x="1867.599609"/>
+    <use xlink:href="#DINPro-Bold-69" x="1931.399597"/>
+    <use xlink:href="#DINPro-Bold-72" x="1958.899582"/>
+    <use xlink:href="#DINPro-Bold-74" x="2004.399567"/>
+    <use xlink:href="#DINPro-Bold-61" x="2039.599564"/>
+    <use xlink:href="#DINPro-Bold-62" x="2092.999557"/>
+    <use xlink:href="#DINPro-Bold-6c" x="2148.999542"/>
+    <use xlink:href="#DINPro-Bold-65" x="2181.499527"/>
+    <use xlink:href="#DINPro-Bold-20" x="2236.299515"/>
+    <use xlink:href="#DINPro-Bold-6e" x="2259.499512"/>
+    <use xlink:href="#DINPro-Bold-6f" x="2316.7995"/>
+    <use xlink:href="#DINPro-Bold-73" x="2371.099487"/>
+    <use xlink:href="#DINPro-Bold-20" x="2421.199478"/>
+    <use xlink:href="#DINPro-Bold-6c" x="2444.399475"/>
+    <use xlink:href="#DINPro-Bold-6f" x="2476.89946"/>
+    <use xlink:href="#DINPro-Bold-20" x="2531.199448"/>
+    <use xlink:href="#DINPro-Bold-70" x="2554.399445"/>
+    <use xlink:href="#DINPro-Bold-65" x="2610.399429"/>
+    <use xlink:href="#DINPro-Bold-72" x="2665.199417"/>
+    <use xlink:href="#DINPro-Bold-6d" x="2710.699402"/>
+    <use xlink:href="#DINPro-Bold-69" x="2798.299393"/>
+    <use xlink:href="#DINPro-Bold-74" x="2825.799377"/>
+    <use xlink:href="#DINPro-Bold-65" x="2860.999374"/>
+    <use xlink:href="#DINPro-Bold-2e" x="2915.799362"/>
+   </g>
+   <!-- **  En el anterior contrato el numero mínimo de usuarios era 25. -->
+   <g style="fill: #5f5f5f" transform="translate(205.006484 419.315062) scale(0.09 -0.09)">
+    <defs>
+     <path id="DINPro-Bold-ed" d="M 1299 0 
+L 1299 3334 
+L 467 3334 
+L 467 0 
+L 1299 0 
+z
+M 1747 4954 
+L 870 4954 
+L 461 3866 
+L 1018 3866 
+L 1747 4954 
+z
+" transform="scale(0.015625)"/>
+    </defs>
+    <use xlink:href="#DINPro-Bold-2a"/>
+    <use xlink:href="#DINPro-Bold-2a" x="49.399994"/>
+    <use xlink:href="#DINPro-Bold-20" x="98.799988"/>
+    <use xlink:href="#DINPro-Bold-20" x="121.999985"/>
+    <use xlink:href="#DINPro-Bold-45" x="145.199982"/>
+    <use xlink:href="#DINPro-Bold-6e" x="205.699966"/>
+    <use xlink:href="#DINPro-Bold-20" x="262.999954"/>
+    <use xlink:href="#DINPro-Bold-65" x="286.199951"/>
+    <use xlink:href="#DINPro-Bold-6c" x="340.999939"/>
+    <use xlink:href="#DINPro-Bold-20" x="373.499924"/>
+    <use xlink:href="#DINPro-Bold-61" x="396.699921"/>
+    <use xlink:href="#DINPro-Bold-6e" x="450.099915"/>
+    <use xlink:href="#DINPro-Bold-74" x="507.399902"/>
+    <use xlink:href="#DINPro-Bold-65" x="542.599899"/>
+    <use xlink:href="#DINPro-Bold-72" x="597.399887"/>
+    <use xlink:href="#DINPro-Bold-69" x="642.899872"/>
+    <use xlink:href="#DINPro-Bold-6f" x="670.399857"/>
+    <use xlink:href="#DINPro-Bold-72" x="724.699844"/>
+    <use xlink:href="#DINPro-Bold-20" x="770.199829"/>
+    <use xlink:href="#DINPro-Bold-63" x="793.399826"/>
+    <use xlink:href="#DINPro-Bold-6f" x="841.399811"/>
+    <use xlink:href="#DINPro-Bold-6e" x="895.699799"/>
+    <use xlink:href="#DINPro-Bold-74" x="952.999786"/>
+    <use xlink:href="#DINPro-Bold-72" x="988.199783"/>
+    <use xlink:href="#DINPro-Bold-61" x="1033.699768"/>
+    <use xlink:href="#DINPro-Bold-74" x="1087.099762"/>
+    <use xlink:href="#DINPro-Bold-6f" x="1122.299759"/>
+    <use xlink:href="#DINPro-Bold-20" x="1176.599747"/>
+    <use xlink:href="#DINPro-Bold-65" x="1199.799744"/>
+    <use xlink:href="#DINPro-Bold-6c" x="1254.599731"/>
+    <use xlink:href="#DINPro-Bold-20" x="1287.099716"/>
+    <use xlink:href="#DINPro-Bold-6e" x="1310.299713"/>
+    <use xlink:href="#DINPro-Bold-75" x="1367.599701"/>
+    <use xlink:href="#DINPro-Bold-6d" x="1424.899689"/>
+    <use xlink:href="#DINPro-Bold-65" x="1512.49968"/>
+    <use xlink:href="#DINPro-Bold-72" x="1567.299667"/>
+    <use xlink:href="#DINPro-Bold-6f" x="1612.799652"/>
+    <use xlink:href="#DINPro-Bold-20" x="1667.09964"/>
+    <use xlink:href="#DINPro-Bold-6d" x="1690.299637"/>
+    <use xlink:href="#DINPro-Bold-ed" x="1777.899628"/>
+    <use xlink:href="#DINPro-Bold-6e" x="1805.399612"/>
+    <use xlink:href="#DINPro-Bold-69" x="1862.6996"/>
+    <use xlink:href="#DINPro-Bold-6d" x="1890.199585"/>
+    <use xlink:href="#DINPro-Bold-6f" x="1977.799576"/>
+    <use xlink:href="#DINPro-Bold-20" x="2032.099564"/>
+    <use xlink:href="#DINPro-Bold-64" x="2055.299561"/>
+    <use xlink:href="#DINPro-Bold-65" x="2111.399551"/>
+    <use xlink:href="#DINPro-Bold-20" x="2166.199539"/>
+    <use xlink:href="#DINPro-Bold-75" x="2189.399536"/>
+    <use xlink:href="#DINPro-Bold-73" x="2246.699524"/>
+    <use xlink:href="#DINPro-Bold-75" x="2296.799515"/>
+    <use xlink:href="#DINPro-Bold-61" x="2354.099503"/>
+    <use xlink:href="#DINPro-Bold-72" x="2407.499496"/>
+    <use xlink:href="#DINPro-Bold-69" x="2452.999481"/>
+    <use xlink:href="#DINPro-Bold-6f" x="2480.499466"/>
+    <use xlink:href="#DINPro-Bold-73" x="2534.799454"/>
+    <use xlink:href="#DINPro-Bold-20" x="2584.899445"/>
+    <use xlink:href="#DINPro-Bold-65" x="2608.099442"/>
+    <use xlink:href="#DINPro-Bold-72" x="2662.899429"/>
+    <use xlink:href="#DINPro-Bold-61" x="2708.399414"/>
+    <use xlink:href="#DINPro-Bold-20" x="2761.799408"/>
+    <use xlink:href="#DINPro-Bold-32" x="2784.999405"/>
+    <use xlink:href="#DINPro-Bold-35" x="2839.299393"/>
+    <use xlink:href="#DINPro-Bold-2e" x="2893.59938"/>
+   </g>
+   <!-- *** Precio estimado. Crece el coste con el uso, no con los usuarios. -->
+   <g style="fill: #5f5f5f" transform="translate(200.133828 428.723437) scale(0.09 -0.09)">
+    <defs>
+     <path id="DINPro-Bold-50" d="M 3802 3136 
+C 3802 3910 3238 4557 2298 4557 
+L 531 4557 
+L 531 0 
+L 1421 0 
+L 1421 1715 
+L 2298 1715 
+C 3238 1715 3802 2362 3802 3136 
+z
+M 2912 3136 
+C 2912 2765 2656 2515 2253 2515 
+L 1421 2515 
+L 1421 3763 
+L 2253 3763 
+C 2656 3763 2912 3507 2912 3136 
+z
+" transform="scale(0.015625)"/>
+    </defs>
+    <use xlink:href="#DINPro-Bold-2a"/>
+    <use xlink:href="#DINPro-Bold-2a" x="49.399994"/>
+    <use xlink:href="#DINPro-Bold-2a" x="98.799988"/>
+    <use xlink:href="#DINPro-Bold-20" x="148.199982"/>
+    <use xlink:href="#DINPro-Bold-50" x="171.399979"/>
+    <use xlink:href="#DINPro-Bold-72" x="234.199966"/>
+    <use xlink:href="#DINPro-Bold-65" x="279.699951"/>
+    <use xlink:href="#DINPro-Bold-63" x="334.499939"/>
+    <use xlink:href="#DINPro-Bold-69" x="382.499924"/>
+    <use xlink:href="#DINPro-Bold-6f" x="409.999908"/>
+    <use xlink:href="#DINPro-Bold-20" x="464.299896"/>
+    <use xlink:href="#DINPro-Bold-65" x="487.499893"/>
+    <use xlink:href="#DINPro-Bold-73" x="542.299881"/>
+    <use xlink:href="#DINPro-Bold-74" x="592.399872"/>
+    <use xlink:href="#DINPro-Bold-69" x="627.599869"/>
+    <use xlink:href="#DINPro-Bold-6d" x="655.099854"/>
+    <use xlink:href="#DINPro-Bold-61" x="742.699844"/>
+    <use xlink:href="#DINPro-Bold-64" x="796.099838"/>
+    <use xlink:href="#DINPro-Bold-6f" x="852.199829"/>
+    <use xlink:href="#DINPro-Bold-2e" x="906.499817"/>
+    <use xlink:href="#DINPro-Bold-20" x="934.999802"/>
+    <use xlink:href="#DINPro-Bold-43" x="958.199799"/>
+    <use xlink:href="#DINPro-Bold-72" x="1020.199783"/>
+    <use xlink:href="#DINPro-Bold-65" x="1065.699768"/>
+    <use xlink:href="#DINPro-Bold-63" x="1120.499756"/>
+    <use xlink:href="#DINPro-Bold-65" x="1168.499741"/>
+    <use xlink:href="#DINPro-Bold-20" x="1223.299728"/>
+    <use xlink:href="#DINPro-Bold-65" x="1246.499725"/>
+    <use xlink:href="#DINPro-Bold-6c" x="1301.299713"/>
+    <use xlink:href="#DINPro-Bold-20" x="1333.799698"/>
+    <use xlink:href="#DINPro-Bold-63" x="1356.999695"/>
+    <use xlink:href="#DINPro-Bold-6f" x="1404.99968"/>
+    <use xlink:href="#DINPro-Bold-73" x="1459.299667"/>
+    <use xlink:href="#DINPro-Bold-74" x="1509.399658"/>
+    <use xlink:href="#DINPro-Bold-65" x="1544.599655"/>
+    <use xlink:href="#DINPro-Bold-20" x="1599.399643"/>
+    <use xlink:href="#DINPro-Bold-63" x="1622.59964"/>
+    <use xlink:href="#DINPro-Bold-6f" x="1670.599625"/>
+    <use xlink:href="#DINPro-Bold-6e" x="1724.899612"/>
+    <use xlink:href="#DINPro-Bold-20" x="1782.1996"/>
+    <use xlink:href="#DINPro-Bold-65" x="1805.399597"/>
+    <use xlink:href="#DINPro-Bold-6c" x="1860.199585"/>
+    <use xlink:href="#DINPro-Bold-20" x="1892.69957"/>
+    <use xlink:href="#DINPro-Bold-75" x="1915.899567"/>
+    <use xlink:href="#DINPro-Bold-73" x="1973.199554"/>
+    <use xlink:href="#DINPro-Bold-6f" x="2023.299545"/>
+    <use xlink:href="#DINPro-Bold-2c" x="2077.599533"/>
+    <use xlink:href="#DINPro-Bold-20" x="2105.499527"/>
+    <use xlink:href="#DINPro-Bold-6e" x="2128.699524"/>
+    <use xlink:href="#DINPro-Bold-6f" x="2185.999512"/>
+    <use xlink:href="#DINPro-Bold-20" x="2240.2995"/>
+    <use xlink:href="#DINPro-Bold-63" x="2263.499496"/>
+    <use xlink:href="#DINPro-Bold-6f" x="2311.499481"/>
+    <use xlink:href="#DINPro-Bold-6e" x="2365.799469"/>
+    <use xlink:href="#DINPro-Bold-20" x="2423.099457"/>
+    <use xlink:href="#DINPro-Bold-6c" x="2446.299454"/>
+    <use xlink:href="#DINPro-Bold-6f" x="2478.799438"/>
+    <use xlink:href="#DINPro-Bold-73" x="2533.099426"/>
+    <use xlink:href="#DINPro-Bold-20" x="2583.199417"/>
+    <use xlink:href="#DINPro-Bold-75" x="2606.399414"/>
+    <use xlink:href="#DINPro-Bold-73" x="2663.699402"/>
+    <use xlink:href="#DINPro-Bold-75" x="2713.799393"/>
+    <use xlink:href="#DINPro-Bold-61" x="2771.09938"/>
+    <use xlink:href="#DINPro-Bold-72" x="2824.499374"/>
+    <use xlink:href="#DINPro-Bold-69" x="2869.999359"/>
+    <use xlink:href="#DINPro-Bold-6f" x="2897.499344"/>
+    <use xlink:href="#DINPro-Bold-73" x="2951.799332"/>
+    <use xlink:href="#DINPro-Bold-2e" x="3001.899323"/>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p3a2b3bb40d">
+   <rect x="66.5" y="22.87125" width="558" height="332.64"/>
+  </clipPath>
+ </defs>
+</svg>
